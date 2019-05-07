@@ -5,21 +5,42 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport"
           content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Meta data for seo -->
+    <meta name="keywords" content=<%= t(:metadata)[:keywords] %>>
+    <meta name="description" content=<%= t(:metadata)[:description] %>>
+    <meta name="reply-to" content=<%= t(:metadata)[:reply_to] %>>
+    <meta name="category" content=<%= t(:metadata)[:category] %>>
+    <meta name="distribution" content="global">
+    <meta name="author" lang="fr" content="Benoit CALIN, Nicolas BEAUDOUIN">
+
+    <!-- Facebook Open Graph data -->
+    <meta property="og:url" content="<%= t(:og)[:url] %>" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="<%= t(:og)[:title] %>" />
+    <meta property="og:description" content="<%= t(:og)[:description] %>" />
+    <meta property="og:image" content="<%= t(:og)[:image] %>" />
+    <meta property="og:site_name" content="Châteaux Partners" />
+
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="<%= t(:og)[:image] %>">
+    <meta name="twitter:title" content=<%= t(:og)[:title] %>>
+    <meta name="twitter:description" content="<%= t(:og)[:description] %>">
+    <meta name="twitter:image:src" content="<%= t(:og)[:image] %>">
+    <!--     <meta name="twitter:site" content="<%#= DEFAULT_META["twitter_account"] %>"> -->
+    <!-- <meta name="twitter:creator" content="<%#= DEFAULT_META["twitter_account"] %>"> -->
 
     <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title %></title>
-
+    <title>Châteaux Partners, Wines & Spirits expert</title>
     <%= stylesheet_link_tag "application" %>
 
-    <!-- Uncomment this when you actually have a favicon.png in /images -->
-    <%#= favicon_tag 'images/favicon.png' %>
+    <%= favicon_tag 'images/favicon.png' %>
   </head>
   <body>
-
+    <%= partial "layouts/navbar" %>
 
     <%= yield %>
 
-    <!-- We put the JS include tag after the yeild to prevent errors (when you try to select an element that is not already loaded on the page) -->
     <%= javascript_include_tag "application" %>
   </body>
 </html>

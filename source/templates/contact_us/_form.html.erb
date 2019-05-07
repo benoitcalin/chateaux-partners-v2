@@ -1,0 +1,36 @@
+<form accept-charset="UTF-8" action="https://formkeep.com/f/0ecd73ce403a" method="POST">
+  <ul class="form-style-1">
+
+    <li>
+      <label><%= t(:form)[:fullname] %><span class="required">*</span></label><input type="text" name="First Name" class="field-divided" placeholder=<%= t(:form)[:first] %> /> <input type="text" name="Last Name" class="field-divided" placeholder=<%= t(:form)[:last] %> />
+    </li>
+    <li>
+        <label><%= t(:form)[:entity] %></label>
+        <input type="text" name="Entity Name" class="field-long" placeholder="Chateaux Partners SAS" />
+    </li>
+    <li>
+        <label><%= t(:form)[:email] %><span class="required">*</span></label>
+        <input type="email" name="Email" class="field-long" placeholder="chateaux@partners.com" />
+    </li>
+    <li>
+        <label><%= t(:form)[:phone] %><span class="required">*</span></label>
+        <input type="tel" name="Phone Number" class="field-long"  placeholder="06.XX.XX.XX.XX" />
+    </li>
+    <li>
+        <label><%= t(:form)[:subject] %></label>
+        <select name="Subject" class="field-select">
+        <option value=<%= t(:form)[:order] %>><%= t(:form)[:order] %></option>
+        <option value=<%= t(:form)[:events] %>><%= t(:form)[:events] %></option>
+        <option value=<%= t(:form)[:info] %>><%= t(:form)[:info] %></option>
+        </select>
+    </li>
+    <li>
+        <label><%= t(:form)[:message] %><span class="required">*</span></label>
+        <textarea name="Message Content" id="field5" class="field-long field-textarea"></textarea>
+    </li>
+    <li>
+        <input type="submit" class='btn btn-primary btn-block' value=<%= t(:form)[:submit] %> />
+    </li>
+
+  </ul>
+</form>

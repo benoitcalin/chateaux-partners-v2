@@ -1,0 +1,179 @@
+en:
+  # Metadata
+  metadata:
+    keywords: 'wine, grands crus, wine house, bordeaux, tastings, events, storage, delivery, wine club, castles, selection, bourgogne, champagne, margaux, pauillac, pessac-leognan, pomerol, saint-julien, saint-emilion-grand-cru, saint-estèphe, sauternes'
+    description: 'At Châteaux Partners, we think more of ourselves as a wine club than a wine merchant company.'
+    reply_to: 'contact@chateaux-partners.com'
+    category: 'wine'
+
+  # Metadata Facebook
+  og:
+    url: 'http://chateaux-partners.com/'
+    title: 'Châteaux Partners'
+    description: 'At Châteaux Partners, we think more of ourselves as a wine club than a wine merchant company.'
+    image: 'facebook.jpg'
+
+  # Events
+  events:
+    - title: 'Tastings'
+      content: 'Every month we organise tastings in several cities of the world to discover and share the richness of our French wines and champagnes for an unparalleled experience.
+                <br>
+                <br>Each of these wines and champagnes have a story to tell:
+                <br>
+                <br>Each terroir, every land and every climate gives the grape varieties their raw qualities and their peculiarities.
+                <br>
+                <br>Every family, man and woman who work daily for these iconic castles and houses have a passion to convey.
+                <br>
+                <br>Every Vintage and process of vinification from the vine to the bottling brings to the wines all its characteristic.
+                <br>
+                <br>We are here to convey and reveal all the subtlety behind a bottle, surprise, delight and initiate our clientele amateur of good wine and champagne.'
+      image: 'degustation.jpeg'
+      alt: 'Glass of wine'
+
+    - title: 'Events'
+      content: 'Our positioning allows us to travel and meet our clients.
+                <br>
+                <br>During these trips, we usually organize different kind of events.
+                <br>
+                <br>We are usually accompanied by representatives of each Chateau and champagne House that we taste.
+                <br>
+                <br>We take find it very important that producers meet the persons to whom  the wines are addressed, and vice versa. It is important for us to ensure and reassure our customers about the provenance of our wines.
+                <br>
+                <br>We also remain attentive to the envy of our clientele for tastings, business dinners, tasting seminars or the preparation of all types of events (wedding, anniversary...)'
+      image: 'evenements.jpg'
+      alt: 'Bottles of the domain La Romanée-Conti'
+
+    - title: 'Storage'
+      content: 'The high quality of service of our warehousekeeper allows storage in perfect conditions.
+                <br>
+                <br>On an area of 3000 m2, located between the right and the left bank, we have chosen one of the largest players in the environment specializing in the storage of fine wines and products from the vine.
+                <br>
+                <br>The ultra-secure and air-conditioned warehouse meets the requirements for the conservation of great wines, offering optimal conditions, and is extremely secure.'
+      image: 'stockage.jpg'
+      alt: 'Wine boxes on a shelf'
+
+    - title: 'Delivery'
+      content: 'Our team is dynamic and attentive to your needs, we advise you and respond to your requests in less than 12h.<br>The delivery of your orders is ensured within 15 days.'
+      image: 'livraison.jpeg'
+      alt: 'Hands holding grapes'
+
+  # Contact
+  contact:
+    title: Contact Us
+    name: © Châteaux Partners
+    address: 18 Allées de Tourny, 33000 Bordeaux – France
+    tel : '+33 (0)6 43 33 46 77
+    <br>+33 (0)5 57 60 20 61'
+    website: www.chateaux‐partners.com
+    mail: contact@chateaux-partners.com
+
+  # History info
+  history:
+    - id: historic
+      image: 'historic.jpeg'
+      alt: 'Sunset on a vineyard'
+      title: 'The Meeting'
+      content: 'Our story stems from the meeting between a wine-grower in Saint-Emilion and a great wine family in Burgundy which gave birth in 2013 to our wine merchant company: Châteaux partners.<br><br>From the beginning of our adventure we had the opportunity to propose classified Grands Crus in Bordeaux and Saint-Emilion, the largest estates of Bourgogne as well as prestigious Champagnes houses to our customers.'
+
+    - id: clients
+      image: 'clients.jpeg'
+      alt: 'Champagne glasses are being filled'
+      title: 'Our Clients'
+      content: 'Historically our clientele consists of Royal families, large French families, Member
+        international business committees, government institutions, as well as self-made-(wo)men
+        from Japan to New York.'
+
+    - id: evolution
+      image: 'evolution.png'
+      alt: 'Some bottles of Chateaneuf Du Pape'
+      title: 'Our Evolution'
+      content: 'Following the arrival of our new President Mr. El Yousfi-Goldberg, from a wine-growing family in Châteauneuf du Pape, it was decided to propose wines from Côte du Rhône and to extend our entry-level to give everyone the opportunity to discover the richness of French wines.<br><br>In order to meet the demands of our customers we have also created our own wine under different labels, the principal being the "Menthor".'
+
+    - id: selection
+      image: 'selection.jpeg'
+      alt: 'Corks cover the background'
+      title: 'Our Selection'
+      content: '<strong>BOURGOGNE</strong><br>
+      Domaine de la Romanée Conti, Domaine Leflaive, Georges Roumier, Henri Jayer, Méo Camuzet, Armand Rousseau, Mommessin, Domaine Leroy...<br>
+      <br>
+      <strong>CHAMPAGNE</strong><br>
+      Dom Perignon, Salon, Taitinger, Armand de Brignac, Billecart Salmon, Cristal...<br>
+      <br>
+      <strong>MARGAUX</strong><br>
+      Château Margaux, Château Palmer, Château Rauzan Ségla...<br>
+      <br>
+      <strong>PAUILLAC</strong><br>
+      Château Lafite­‐Rothschild, Château Latour, Château Mouton Rothschild, Château Pontet Canet, Château Pichon Baron, Château Pichon Lalande, Lynch Bages...<br>
+      <br>
+      <strong>PESSAC-LEOGNAN</strong><br>
+      Château Haut-­Brion, Château la Mission Haut­‐Brion, Domaine de Chevalier...<br>
+      <br>
+      <strong>POMEROL</strong><br>
+      Pétrus, Vieux Château Certan, l’Evangile, Clinet...<br>
+      <br>
+      <strong>SAINT-JULIEN</strong><br>
+      Château Léoville Las Cases, Leoville Poyferre, Leoville Barton, Ducru Beaucaillou Beychevelle...<br>
+      <br>
+      <strong>SAINT-EMILION GRAND CRU</strong><br>
+      Château Canon La Gaffelière, Château Ausone, Château Cheval Blanc, Château Angélus, Château Pavie, Château Figeac, Château Troplong Mondot, La Mondotte,
+      Château Berliquet...<br>
+      <br>
+      <strong>SAINT-­ESTÈPHE</strong><br>
+      Château Cos d’Estournel, Château Calon Ségur, Château Phélan Ségur, Château Montrose...<br>
+      <br>
+      <strong>SAUTERNES</strong><br>
+      Château d’Yquem, Château Rieussec...<br>
+      <br>'
+
+  # Introduction
+  introduction:
+    title: A Few Words
+    text: 'A rich portfolio for a wide range of proposals.<br><br>Close links, without intermediaries, with our castles and houses to offer the best wines at the best price, assuring quality and provenance of the products.<br><br><strong class = "purple">More than a wine merchant company, we think of ourselves as a wine club.</strong><br><br>We want to share our passion for wine around monthly events.'
+
+  # Onglets
+  tabs:
+    - title: 'Our History'
+      short_title: 'History'
+      url: 'en/index.html'
+    - title: 'Our Philosophy'
+      short_title: 'Philosophy'
+      url: 'en/philosophy.html'
+    - title: 'Our Expertise'
+      short_title: 'Expertise'
+      url: 'en/expertise.html'
+    - title: 'Our Price List'
+      short_title: 'Price List'
+      url: 'en/prices.html'
+    - title: 'Contact Us'
+      short_title: 'Contact'
+      url: 'en/contact_us.html'
+
+  # Form
+  form:
+    fullname: 'Full Name '
+    first: 'First Name'
+    last: 'Last Name'
+    entity: 'Entity Name '
+    email: 'Email '
+    phone: 'Phone '
+    subject: 'Subject'
+    order: 'Order'
+    events: 'Events'
+    info: 'Information'
+    message: 'Your Message '
+    submit: 'Submit'
+
+  # Autre texte
+  thanks:
+    title: Thank you for your message.
+    text: We received it, we shall answer as soon as possible in order to meet your request,<br><br>Châteaux Partners Team.
+    btn: Back to Homepage
+
+  back: Back
+
+  # Alt text for background images
+  alternates:
+    logo: 'Châteaux Partners logo'
+    contact: 'Place de la Bourse Bordeaux'
+    expertise: 'Chateau Pavie entrance'
+    history: 'Grapes in a vineyard'

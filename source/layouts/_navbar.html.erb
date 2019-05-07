@@ -1,0 +1,31 @@
+<div class="navbar-title">
+  <h1>Châteaux Partners</h1>
+  <p>Wine & Champagne Experts</p>
+</div>
+
+<div class="navbar-tabs" id="myHeader">
+  <% if current_page.path == 'history.html' %>
+    <% current_url = 'index.html' %>
+  <% elsif current_page.path == 'en/history.html' %>
+    <% current_url = 'en/index.html' %>
+  <% else %>
+    <% current_url = current_page.path %>
+  <% end %>
+
+  <% t(:tabs).each do |tab| %>
+
+    <% if current_url == tab[:url] %>
+      <% link_to "/#{tab[:url]}", class: 'tab active' do %>
+        <h1 class='bigger-device'><%= tab[:title] %></h1>
+        <h1 class='smaller-device'><%= tab[:short_title] %></h1>
+      <% end %>
+
+    <% else %>
+      <% link_to "/#{tab[:url]}", class: 'tab' do %>
+        <h2 class='bigger-device'><%= tab[:title] %></h2>
+        <h2 class='smaller-device'><%= tab[:short_title] %></h2>
+      <% end %>
+    <% end %>
+
+  <% end %>
+</div>

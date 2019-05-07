@@ -3,4 +3,16 @@
 //= require bootstrap-sprockets
 //= require_tree .
 
-// We modified the tree above in order to have it work with Bootstrap 4
+// Sticky Navbar Tabs
+var header = document.getElementById("myHeader");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+
+window.onscroll = function() {myFunction()};
