@@ -1,3 +1,15 @@
+<div class="language">
+  <% if I18n.locale == :fr %>
+    <% link_to "en/#{current_page.path}" do %>
+      <img src="https://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_en.png" alt="English">
+    <% end %>
+  <% else %>
+    <% link_to "https://benoitcalin.github.io/chateaux-partners-v2/#{current_page.path[3..-1]}" do %>
+      <img src="https://res.cloudinary.com/dvlfojetn/image/upload/v1479601274/xiaojieli.com/lang_fr.png" alt="Français">
+    <% end %>
+  <% end %>
+</div>
+
 <div class="navbar-title">
   <h1>Châteaux Partners</h1>
   <p>Wine & Champagne Experts</p>

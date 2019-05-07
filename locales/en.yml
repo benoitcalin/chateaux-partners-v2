@@ -134,7 +134,7 @@ en:
   tabs:
     - title: 'Our History'
       short_title: 'History'
-      url: 'en/index.html'
+      url: 'en/history.html'
     - title: 'Our Philosophy'
       short_title: 'Philosophy'
       url: 'en/philosophy.html'
