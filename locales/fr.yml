@@ -155,7 +155,7 @@ fr:
   tabs:
     - title: 'Notre Histoire'
       short_title: 'Histoire'
-      url: 'history.html'
+      url: 'index.html'
     - title: 'Notre Philosophie'
       short_title: 'Philosophie'
       url: 'philosophy.html'

@@ -6,14 +6,11 @@
   </div>
 </div>
 
+
 <% t(:events).each do |e| %>
 
-  <div class="image-holder" style="background-image: linear-gradient(0.55deg, #000000 -40.74%, rgba(255, 255, 255, 0) 53.77%), url(<%= image_path e[:image] %>)" alt="<%= e[:alt] %>">
-    <div class="content-holder">
-      <h3><%= e[:title] %></h3>
-      <p><%= e[:content] %></p>
-    </div>
-  </div>
+  <% @e = e %>
+  <%= partial 'templates/content/cards' %>
 
 <% end %>
 
