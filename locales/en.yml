@@ -1,7 +1,7 @@
 en:
   # Metadata
   metadata:
-    keywords: 'wine, grands crus, wine house, bordeaux, tastings, events, storage, delivery, wine club, castles, selection, bourgogne, champagne, margaux, pauillac, pessac-leognan, pomerol, saint-julien, saint-emilion-grand-cru, saint-estèphe, sauternes'
+    keywords: 'wine, grands crus, wine house, bordeaux, tastings, events, storage, delivery, wine club, châteaux, selection, bourgogne, champagne, margaux, pauillac, pessac-leognan, pomerol, saint-julien, saint-emilion-grand-cru, saint-estèphe, sauternes'
     description: 'At Châteaux Partners, we think more of ourselves as a wine club than a wine merchant company.'
     reply_to: 'contact@chateaux-partners.com'
     category: 'wine'
@@ -89,7 +89,7 @@ en:
       alt: 'Three white wine glasses'
 
     - title: 'Viticulture'
-      content: 'Agriculture is the basis of our activity, we work with more than 120 castles and houses of Champagnes, including family exploitations.  We accompany in the commercial and human development both reputed and aspiring houses and castles.<br><br>We are in narrow collaboration with several winegrowers in Bordeaux, Cotes du Rhône and Cotes de Provence in the elaboration of our range "Envie de" and its different variations. <br><br>Our conception: to share what the earth can offer us.'
+      content: 'Agriculture is the basis of our activity, we work with more than 120 châteaux and houses of Champagnes, including family exploitations.  We accompany in the commercial and human development both reputed and aspiring houses and châteaux.<br><br>We are in narrow collaboration with several winegrowers in Bordeaux, Cotes du Rhône and Cotes de Provence in the elaboration of our range "Envie de" and its different variations. <br><br>Our conception: to share what the earth can offer us.'
       image: 'viticulture.jpg'
       alt: 'Sunset on vineyards'
 
@@ -110,7 +110,7 @@ en:
   # Introduction
   introduction:
     title: A Few Words
-    text: 'A rich portfolio for a wide range of proposals.<br><br>Close links, without intermediaries, with our castles and houses to offer the best wines at the best price, assuring quality and provenance of the products.<br><br><strong class = "purple">More than a wine merchant company, we think of ourselves as a wine club.</strong><br><br>We want to share our passion for wine around monthly events.'
+    text: 'A rich portfolio for a wide range of proposals.<br><br>Close links, without intermediaries, with our châteaux and houses to offer the best wines at the best price, assuring quality and provenance of the products.<br><br><strong class = "purple">More than a wine merchant company, we think of ourselves as a wine club.</strong><br><br>We want to share our passion for wine around monthly events.'
 
   # Events
   events:
@@ -121,7 +121,7 @@ en:
                 <br>
                 <br>Each terroir, every land and every climate gives the grape varieties their raw qualities and their peculiarities.
                 <br>
-                <br>Every family, man and woman who work daily for these iconic castles and houses have a passion to convey.
+                <br>Every family, man and woman who work daily for these iconic châteaux and houses have a passion to convey.
                 <br>
                 <br>Every Vintage and process of vinification from the vine to the bottling brings to the wines all its characteristic.
                 <br>
