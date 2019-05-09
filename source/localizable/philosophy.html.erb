@@ -1,1 +1,6 @@
-To be done
+<% t(:philosophy).each do |e| %>
+
+  <% @e = e %>
+  <%= partial 'templates/content/cards' %>
+
+<% end %>

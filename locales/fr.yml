@@ -13,6 +13,118 @@ fr:
     description: 'At Châteaux Partners, we think more of ourselves as a wine club than a trading house.'
     image: 'facebook.jpg'
 
+  # Histoire informations
+  history:
+    - id: historic
+      image: 'historic.jpeg'
+      alt: 'Grappes dans les vignes'
+      title: 'La Rencontre'
+      content: 'Notre histoire est issue de la rencontre entre deux familles viticoles de Saint-Emilion et de Bourgogne qui a donné naissance en 2013 à notre maison de négoce : Châteaux Partners.
+      <br>
+      <br>
+      Dès le début de notre aventure nous avons eu l’opportunité de proposer des Grands Crus Classés en Bordeaux et
+      Saint-Emilion, les plus grands domaines de Bourgogne ainsi que de prestigieuses maisons de Champagnes à nos clients.'
+
+    - id: clients
+      image: 'clients.jpeg'
+      alt: 'On remplit des flûtes de champagne'
+      title: 'Nos Clients'
+      content: 'Nous travaillons pour satisfaire au mieux notre clientèle qui historiquement se compose de grandes familles européennes et étrangères, de membres de comités d’entreprises internationales, d’institutions gouvernementales, ainsi que de self-made-(wo)men du Japon à New-York. Nous partageons notre passion pour le vin en étant à l’écoute des envies de chacun et en organisant des évènements de prestige partout dans le monde, avec un grand souci de qualité.'
+
+    - id: evolution
+      image: 'evolution.png'
+      alt: 'Des bouteilles de Chateaneuf Du Pape'
+      title: 'Notre Evolution'
+      content: 'À la suite de l’arrivée de notre nouveau président M. El Yousfi-Goldberg, issu d’une famille viticole en
+      Châteauneuf du Pape, il a été décidé de proposer des vins du Côte du Rhône et d’étendre notre entrée de gamme
+      pour offrir l’opportunité à chacun de découvrir la richesse des vins français.
+      <br>
+      <br>
+      Afin de répondre aux demandes de nos clients nous avons également crée notre propre vin sous différentes
+      étiquettes avec en tête d’affiche « Envie de ».'
+
+    - id: selection
+      image: 'selection.jpeg'
+      alt: 'Fond rempli de bouchons de liège'
+      title: 'Notre Sélection'
+      content: '<strong>BOURGOGNE</strong><br>
+      Domaine de la Romanée Conti, Bouchard Père & Fils, Henri Jayer, Armand Rousseau, Mommessin, Domaine Leroy, Louis Latour, Vincent Girardin, Ponsot, Frédéric Magnien<br>
+      <br>
+
+      <strong>CHAMPAGNE</strong><br>
+      Dom Perignon, Salon-Delamotte, Taittinger, Billecart Salmon, Michel Reybier, Armand de Brignac<br>
+      <br>
+
+      <strong>COTES DU RHONE</strong><br>
+      Château Beaucastel, Domaine du Pegau, Château de Marcoux, Clos de papes<br>
+      <br>
+
+      <strong>MARGAUX</strong><br>
+      Château Margaux, Château Giscours, Château Lascombes, Château d’Issan, Château Cantenac-Brown<br>
+      <br>
+
+      <strong>PAUILLAC</strong><br>
+      Château Lafite¬‐Rothschild, Château Mouton Rothschild, Château Pontet Canet, Château Pichon Baron, Château Pichon Lalande, Château Lynch Bages, Château Haut-Bages Libéral<br>
+      <br>
+
+      <strong>PESSAC-LEOGNAN</strong><br>
+      Château Haut-¬Brion, Château la Mission Haut¬‐Brion, Domaine de Chevalier, Château Smith-Haut-Lafitte<br>
+      <br>
+
+      <strong>POMEROL</strong><br>
+      Pétrus, Château Le Pin, Vieux Château Certan, Château Beauregard<br>
+      <br>
+
+      <strong>SAINT-JULIEN</strong><br>
+      Château Léoville Las Cases, Château Leoville Poyferre, Château  Leoville Barton, Château  Ducru Beaucaillou, Château Beychevelle, Château Gruaud Larose<br>
+      <br>
+
+      <strong>SAINT-EMILION GRAND CRU</strong><br>
+      Château Cheval Blanc, Château Pavie, Château Figeac, Château Canon La Gaffelière, Château La Mondotte, Château Beau-Séjour Bécot, Château La Gomerie, Château Valandraud<br>
+      <br>
+
+      <strong>SAINT-­ESTÈPHE</strong><br>
+      Château Cos d’Estournel, Château Calon Ségur, Château Montrose<br>
+      <br>
+
+      <strong>SAUTERNES</strong><br>
+      Château d’Yquem, Château Suduiraut<br>
+      <br>'
+
+  # Philosophy
+  philosophy:
+    - title: 'Collaborateurs'
+      content: "Les collaborateurs de Châteaux Partners sont unis par nos quatre valeurs d'humanisme, d'ouverture, de proximité et d'enthousiasme, qu'ils apportent chaque jour à leur travail.<br><br>Avec une présence mondiale dans plus de 35 pays à travers les 5 continents ; nos collaborateurs, nos partenaires et nos clients représentent un large éventail d'horizons, de cultures et de modes de vie différents."
+      image: 'collaborators.jpg'
+      alt: 'Trois verres de vins blanc'
+
+    - title: 'Viticulture'
+      content: "L’agriculture est à la base de notre activité, nous travaillons avec plus de 120 Chateaux et Maisons de Champagnes, y compris des exploitations familiales.<br><br>Nous accompagnons dans le développement commercial et humain aussi bien des maisons réputées que des châteaux en devenir. Nous sommes en étroite collaboration avec plusieurs viticulteurs en Bordeaux, Cote du Rhône et Cote de Provence dans l’élaboration de notre gamme « Envie de » et ses différentes déclinaisons.<br><br>Notre conception : partager ce que la terre peut nous offrir."
+      image: 'viticulture.jpg'
+      alt: 'Choucher de soleil sur des vignes'
+
+    - title: 'Développement durable'
+      content: "Nous nous efforçons de promouvoir des partenaires sensibles aux contraintes liées à l'environnement et au fonctionnement de la société. Parce que nous estimons que la viticulture se doit de s'inscrire dans un ensemble environnemental, nous mettons en avant les partenaires qui utilisent des méthodes naturelles pour exalter l'identité du vin.<br><br>Châteaux Partners, avec sa gamme « Envie de » produit des vins sans sulfites en collaboration avec des petits producteurs régionaux car nous croyons en l’avenir de ce vin et le virage que doit entreprendre notre secteur."
+      image: 'environment.jpg'
+      alt: 'Globe en verre sur mousse'
+
+    - title: "Châteaux Partners c'est:"
+      content: "- 10 Collaborateurs,
+      <br>- 35 Pays,
+      <br>- 2 100 Clients Actifs,
+      <br>- 120 Partenaires Viticoles,
+      <br>- 600 000 Bouteilles de Grands Crus."
+      image: 'encart.jpeg'
+      alt: 'Encart Châteaux Partners'
+
+  # Introduction
+  introduction:
+    title: Quelques mots
+    text: 'Un portefeuille riche pour une proposition de gamme très variée.<br>
+          <br>Des liens étroits, sans intermédiaires, avec nos Châteaux et Maisons pour proposer les meilleurs vins au meilleur prix, assurant qualité et provenance des produits.<br>
+          <br><strong class="purple">Plus qu’une maison de négoce, nous nous pensons comme un Wine Club.</strong><br>
+          <br>Nous souhaitons partager notre passion du vin autour d’évènements mensuels.'
+
   # Evènements
   events:
     - title: 'Dégustations'
@@ -27,7 +139,7 @@ fr:
                 <br>Chaque millésime et processus de vinification de la vigne jusqu’à la mise en bouteille apporte aux vins toute sa caractéristique.
                 <br>
                 <br>Nous sommes là pour transmettre et révéler toute la subtilité derrière une bouteille, surprendre, faire plaisir et initier notre clientèle amatrice de bon vin et champagne.'
-      image: 'degustation.jpeg'
+      image: 'degustation.jpg'
       alt: 'Verre de vin'
 
     - title: 'Evénements'
@@ -46,7 +158,7 @@ fr:
                 <br>
                 <br>Sur une superficie de 3000 m2, situé entre la rive droite et la rive gauche, nous avons choisi un des plus grands acteurs du milieu spécialisé dans le stockage de vins fins et produits issus de la vigne.
                 <br>
-                <br>L’Entrepôt ultra sécurisé et climatisé répond aux exigences que demande la conservation des grands vins offrant des conditions optimales, extrêmement sécurisés.'
+                <br>L’Entrepôt ultra sécurisé et climatisé répond aux exigences que demande la conservation des grands vins offrant des conditions optimales.'
       image: 'stockage.jpg'
       alt: 'Caisses de vin sur une étagère'
 
@@ -64,92 +176,6 @@ fr:
     <br>+33 (0)5 57 60 20 61'
     website: www.chateaux‐partners.com
     mail: contact@chateaux-partners.com
-
-  # Histoire informations
-  history:
-    - id: historic
-      image: 'historic.jpeg'
-      alt: 'Coucher de soleil sur les vignes'
-      title: 'La Rencontre'
-      content: 'Notre histoire est issue de la rencontre entre un propriétaire viticole en Saint-Emilion et une grande
-      famille viticole en Bourgogne qui a donné naissance en 2013 à notre maison de négoce : Châteaux Partners.
-      <br>
-      <br>
-      Dès le début de notre aventure nous avons eu l’opportunité de proposer des Grands Crus Classés en Bordeaux et
-      Saint-Emilion, les plus grands domaines de Bourgogne ainsi que de prestigieuses maisons de Champagnes à nos clients.'
-
-    - id: clients
-      image: 'clients.jpeg'
-      alt: 'On remplit des flûtes de champagne'
-      title: 'Nos Clients'
-      content: 'Historiquement notre clientèle se compose de familles royales, de grandes familles françaises, de membre
-      de comités d’entreprises internationales, d’institutions gouvernementales, ainsi que de self-made-(wo)men
-      du Japon à New-York.'
-
-    - id: evolution
-      image: 'evolution.png'
-      alt: 'Des bouteilles de Chateaneuf Du Pape'
-      title: 'Notre Evolution'
-      content: 'À la suite de l’arrivée de notre nouveau président M. El Yousfi-Goldberg, issu d’une famille viticole en
-      Châteauneuf du Pape, il a été décidé de proposer des vins en Côte du Rhône et d’étendre notre entrée de gamme
-      pour offrir l’opportunité à chacun de découvrir la richesse des vins français.
-      <br>
-      <br>
-      Afin de répondre aux demandes de nos clients nous avons également crée notre propre vin sous différentes
-      étiquettes avec en tête d’affiche le « Menthor ».'
-
-    - id: selection
-      image: 'selection.jpeg'
-      alt: 'Fond rempli de bouchons de liège'
-      title: 'Notre Sélection'
-      content: '<strong>BOURGOGNE</strong><br>
-      Domaine de la Romanée Conti, Domaine Leflaive, Georges Roumier, Henri Jayer, Méo Camuzet, Armand Rousseau, Mommessin, Domaine Leroy...<br>
-      <br>
-
-      <strong>CHAMPAGNE</strong><br>
-      Dom Perignon, Salon, Taitinger, Armand de Brignac, Billecart Salmon, Cristal...<br>
-      <br>
-
-      <strong>MARGAUX</strong><br>
-      Château Margaux, Château Palmer, Château Rauzan Ségla...<br>
-      <br>
-
-      <strong>PAUILLAC</strong><br>
-      Château Lafite­‐Rothschild, Château Latour, Château Mouton Rothschild, Château Pontet Canet, Château Pichon Baron, Château Pichon Lalande, Lynch Bages...<br>
-      <br>
-
-      <strong>PESSAC-LEOGNAN</strong><br>
-      Château Haut-­Brion, Château la Mission Haut­‐Brion, Domaine de Chevalier...<br>
-      <br>
-
-      <strong>POMEROL</strong><br>
-      Pétrus, Vieux Château Certan, l’Evangile, Clinet...<br>
-      <br>
-
-      <strong>SAINT-JULIEN</strong><br>
-      Château Léoville Las Cases, Leoville Poyferre, Leoville Barton, Ducru Beaucaillou Beychevelle...<br>
-      <br>
-
-      <strong>SAINT-EMILION GRAND CRU</strong><br>
-      Château Canon La Gaffelière, Château Ausone, Château Cheval Blanc, Château Angélus, Château Pavie, Château Figeac, Château Troplong Mondot, La Mondotte,
-      Château Berliquet...<br>
-      <br>
-
-      <strong>SAINT-­ESTÈPHE</strong><br>
-      Château Cos d’Estournel, Château Calon Ségur, Château Phélan Ségur, Château Montrose...<br>
-      <br>
-
-      <strong>SAUTERNES</strong><br>
-      Château d’Yquem, Château Rieussec...<br>
-      <br>'
-
-  # Introduction
-  introduction:
-    title: Quelques mots
-    text: 'Un portefeuille riche pour une proposition de gamme très variée.<br>
-          <br>Des liens étroits, sans intermédiaires, avec nos Châteaux et Maisons pour proposer les meilleurs vins au meilleur prix, assurant qualité et provenance des produits.<br>
-          <br><strong class="purple">Plus qu’une maison de négoce, nous nous pensons comme un Wine Club.</strong><br>
-          <br>Nous souhaitons partager notre passion du vin autour d’évènements mensuels.'
 
   # Onglets
   tabs:
