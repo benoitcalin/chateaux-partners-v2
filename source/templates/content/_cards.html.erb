@@ -1,8 +1,12 @@
 <% e = @e %>
 
 <div class="image-holder" style="background-image: linear-gradient(0.55deg, #000000 -40.74%, rgba(255, 255, 255, 0) 53.77%), url(<%= image_path e[:image] %>)" alt="<%= e[:alt] %>">
-    <div class="content-holder">
+  <div class="content-holder">
+    <div class="title-container">
       <h3><%= e[:title] %></h3>
+    </div>
+    <div class="text-container">
       <p><%= e[:content] %></p>
     </div>
   </div>
+</div>
