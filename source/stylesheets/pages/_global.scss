@@ -26,7 +26,7 @@
   align-items: center;
   background-color: white;
   color: $purple;
-  padding: 10px;
+  padding: 0 2% 2% 2%;
 }
 
 @media(max-width: 576px) {
@@ -43,16 +43,21 @@
 }
 
 .title-container {
-  height: 30px;
+  height: 40px;
   width: 100%;
   display: flex;
   justify-content: center;
-  box-shadow : 0 3px 3px -3px rgba(100, 100, 100, 0.2)
+  align-items: center;
+  box-shadow : 0 3px 3px -3px rgba(100, 100, 100, 0.2);
+  padding: 2%;
+  h3 {
+    margin: 0;
+  }
 }
 
 .text-container {
   padding-top: 5px;
-  height: calc(100% - 30px);
+  height: calc(100% - 40px);
   overflow-y: scroll;
   p {
     text-overflow: ellipsis;

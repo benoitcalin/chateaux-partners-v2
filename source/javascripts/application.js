@@ -28,10 +28,6 @@ if (window.matchMedia("(max-width: 576px)").matches) {
     bs.forEach((b) => {
       b.classList.add('d-none');
   });
-
-  console.log("Screen under 576px - mobile");
-} else {
-  console.log("Screen over 576px - desktop");
 }
 
 // On window resize changes behavior
