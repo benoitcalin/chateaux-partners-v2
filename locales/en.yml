@@ -13,6 +13,105 @@ en:
     description: 'At Châteaux Partners, we think more of ourselves as a wine club than a wine merchant company.'
     image: 'facebook.jpg'
 
+  # History info
+  history:
+    - id: historic
+      image: 'historic.jpeg'
+      alt: 'Grape on a vineyard'
+      title: 'The Meeting'
+      content: 'Our story stems from the meeting between two wine-grower families from Saint-Emilion and from Burgundy which gave birth in 2013 to our wine merchant company: Châteaux partners.<br><br>From the beginning of our adventure we had the opportunity to propose classified Grands Crus in Bordeaux and Saint-Emilion, the largest estates of Bourgogne as well as prestigious Champagnes houses to our customers.'
+
+    - id: clients
+      image: 'clients.jpeg'
+      alt: 'Champagne glasses are being filled'
+      title: 'Our Clients'
+      content: 'We do our best to satisfy our clientele, which historically consists of large European and foreign companies, members of international business committees, government institutions, as well as self-made-(wo)men from Japan to New York. We share our passion for wine by listening to the desire of everyone and organising prestigious events all over the world, with a great concern for quality.'
+
+    - id: evolution
+      image: 'evolution.png'
+      alt: 'Some bottles of Chateaneuf Du Pape'
+      title: 'Our Evolution'
+      content: 'Following the arrival of our new President Mr. El Yousfi-Goldberg, from a wine-growing family in Châteauneuf du Pape, it was decided to propose wines from Côte du Rhône and to extend our entry-level to give everyone the opportunity to discover the richness of French wines.<br><br>In order to meet the demands of our customers we have also created our own wine under different labels, the principal being the "Menthor".'
+
+    - id: selection
+      image: 'selection.jpeg'
+      alt: 'Corks cover the background'
+      title: 'Our Selection'
+      content: '<strong>BOURGOGNE</strong><br>
+      Domaine de la Romanée Conti, Bouchard Père & Fils, Henri Jayer, Armand Rousseau, Mommessin, Domaine Leroy, Louis Latour, Vincent Girardin, Ponsot, Frédéric Magnien<br>
+      <br>
+
+      <strong>CHAMPAGNE</strong><br>
+      Dom Perignon, Salon-Delamotte, Taittinger, Billecart Salmon, Michel Reybier, Armand de Brignac<br>
+      <br>
+
+      <strong>COTES DU RHONE</strong><br>
+      Château Beaucastel, Domaine du Pegau, Château de Marcoux, Clos de papes<br>
+      <br>
+
+      <strong>MARGAUX</strong><br>
+      Château Margaux, Château Giscours, Château Lascombes, Château d’Issan, Château Cantenac-Brown<br>
+      <br>
+
+      <strong>PAUILLAC</strong><br>
+      Château Lafite¬‐Rothschild, Château Mouton Rothschild, Château Pontet Canet, Château Pichon Baron, Château Pichon Lalande, Château Lynch Bages, Château Haut-Bages Libéral<br>
+      <br>
+
+      <strong>PESSAC-LEOGNAN</strong><br>
+      Château Haut-¬Brion, Château la Mission Haut¬‐Brion, Domaine de Chevalier, Château Smith-Haut-Lafitte<br>
+      <br>
+
+      <strong>POMEROL</strong><br>
+      Pétrus, Château Le Pin, Vieux Château Certan, Château Beauregard<br>
+      <br>
+
+      <strong>SAINT-JULIEN</strong><br>
+      Château Léoville Las Cases, Château Leoville Poyferre, Château  Leoville Barton, Château  Ducru Beaucaillou, Château Beychevelle, Château Gruaud Larose<br>
+      <br>
+
+      <strong>SAINT-EMILION GRAND CRU</strong><br>
+      Château Cheval Blanc, Château Pavie, Château Figeac, Château Canon La Gaffelière, Château La Mondotte, Château Beau-Séjour Bécot, Château La Gomerie, Château Valandraud<br>
+      <br>
+
+      <strong>SAINT-­ESTÈPHE</strong><br>
+      Château Cos d’Estournel, Château Calon Ségur, Château Montrose<br>
+      <br>
+
+      <strong>SAUTERNES</strong><br>
+      Château d’Yquem, Château Suduiraut<br>
+      <br>'
+
+  # Philosophy
+  philosophy:
+    - title: 'Collaborators'
+      content: "Chateaux partners’ collaborators are united by our four values of humanism, openness, closeness and enthusiasm, which they bring every day to their work.<br><br>With a worldwide presence in more than 35 countries across the 5 continents; our employees, partners and clients represent a wide range of backgrounds, cultures and different lifestyles."
+      image: 'collaborators.jpg'
+      alt: 'Three white wine glasses'
+
+    - title: 'Viticulture'
+      content: 'Agriculture is the basis of our activity, we work with more than 120 castles and houses of Champagnes, including family exploitations.  We accompany in the commercial and human development both reputed and aspiring houses and castles.<br><br>We are in narrow collaboration with several winegrowers in Bordeaux, Cotes du Rhône and Cotes de Provence in the elaboration of our range "Envie de" and its different variations. <br><br>Our conception: to share what the earth can offer us.'
+      image: 'viticulture.jpg'
+      alt: 'Sunset on vineyards'
+
+    - title: 'Sustainable Development'
+      content: 'We strive to promote partners who are sensitive to the constraints associated with the environment and the functioning of society. Because we believe that viticulture should be part of an environmental package, we bring forward partners who use natural methods to exalt the identity of the wine. <br><br>Châteaux Partners, with its "Envie de" range produces sulphite-free wines in collaboration with small regional producers because we believe in the future of this wine and the turn that must be undertaken by our sector.'
+      image: 'environment.jpg'
+      alt: 'Glass globe on moss'
+
+    - title: "Châteaux Partners is:"
+      content: "- 10 Collaborators,
+      <br>- 35 Countries,
+      <br>- 2,100 Active Customers,
+      <br>- 120 Winegrowers Partners,
+      <br>- 600,000 Grands Crus Bottles."
+      image: 'encart.jpeg'
+      alt: 'Inset Châteaux Partners'
+
+  # Introduction
+  introduction:
+    title: A Few Words
+    text: 'A rich portfolio for a wide range of proposals.<br><br>Close links, without intermediaries, with our castles and houses to offer the best wines at the best price, assuring quality and provenance of the products.<br><br><strong class = "purple">More than a wine merchant company, we think of ourselves as a wine club.</strong><br><br>We want to share our passion for wine around monthly events.'
+
   # Events
   events:
     - title: 'Tastings'
@@ -27,7 +126,7 @@ en:
                 <br>Every Vintage and process of vinification from the vine to the bottling brings to the wines all its characteristic.
                 <br>
                 <br>We are here to convey and reveal all the subtlety behind a bottle, surprise, delight and initiate our clientele amateur of good wine and champagne.'
-      image: 'degustation.jpeg'
+      image: 'degustation.jpg'
       alt: 'Glass of wine'
 
     - title: 'Events'
@@ -48,7 +147,7 @@ en:
                 <br>
                 <br>On an area of 3000 m2, located between the right and the left bank, we have chosen one of the largest players in the environment specializing in the storage of fine wines and products from the vine.
                 <br>
-                <br>The ultra-secure and air-conditioned warehouse meets the requirements for the conservation of great wines, offering optimal conditions, and is extremely secure.'
+                <br>The ultra-secure and air-conditioned warehouse meets the requirements for the conservation of great wines, offering optimal conditions.'
       image: 'stockage.jpg'
       alt: 'Wine boxes on a shelf'
 
@@ -66,69 +165,6 @@ en:
     <br>+33 (0)5 57 60 20 61'
     website: www.chateaux‐partners.com
     mail: contact@chateaux-partners.com
-
-  # History info
-  history:
-    - id: historic
-      image: 'historic.jpeg'
-      alt: 'Sunset on a vineyard'
-      title: 'The Meeting'
-      content: 'Our story stems from the meeting between a wine-grower in Saint-Emilion and a great wine family in Burgundy which gave birth in 2013 to our wine merchant company: Châteaux partners.<br><br>From the beginning of our adventure we had the opportunity to propose classified Grands Crus in Bordeaux and Saint-Emilion, the largest estates of Bourgogne as well as prestigious Champagnes houses to our customers.'
-
-    - id: clients
-      image: 'clients.jpeg'
-      alt: 'Champagne glasses are being filled'
-      title: 'Our Clients'
-      content: 'Historically our clientele consists of Royal families, large French families, Member
-        international business committees, government institutions, as well as self-made-(wo)men
-        from Japan to New York.'
-
-    - id: evolution
-      image: 'evolution.png'
-      alt: 'Some bottles of Chateaneuf Du Pape'
-      title: 'Our Evolution'
-      content: 'Following the arrival of our new President Mr. El Yousfi-Goldberg, from a wine-growing family in Châteauneuf du Pape, it was decided to propose wines from Côte du Rhône and to extend our entry-level to give everyone the opportunity to discover the richness of French wines.<br><br>In order to meet the demands of our customers we have also created our own wine under different labels, the principal being the "Menthor".'
-
-    - id: selection
-      image: 'selection.jpeg'
-      alt: 'Corks cover the background'
-      title: 'Our Selection'
-      content: '<strong>BOURGOGNE</strong><br>
-      Domaine de la Romanée Conti, Domaine Leflaive, Georges Roumier, Henri Jayer, Méo Camuzet, Armand Rousseau, Mommessin, Domaine Leroy...<br>
-      <br>
-      <strong>CHAMPAGNE</strong><br>
-      Dom Perignon, Salon, Taitinger, Armand de Brignac, Billecart Salmon, Cristal...<br>
-      <br>
-      <strong>MARGAUX</strong><br>
-      Château Margaux, Château Palmer, Château Rauzan Ségla...<br>
-      <br>
-      <strong>PAUILLAC</strong><br>
-      Château Lafite­‐Rothschild, Château Latour, Château Mouton Rothschild, Château Pontet Canet, Château Pichon Baron, Château Pichon Lalande, Lynch Bages...<br>
-      <br>
-      <strong>PESSAC-LEOGNAN</strong><br>
-      Château Haut-­Brion, Château la Mission Haut­‐Brion, Domaine de Chevalier...<br>
-      <br>
-      <strong>POMEROL</strong><br>
-      Pétrus, Vieux Château Certan, l’Evangile, Clinet...<br>
-      <br>
-      <strong>SAINT-JULIEN</strong><br>
-      Château Léoville Las Cases, Leoville Poyferre, Leoville Barton, Ducru Beaucaillou Beychevelle...<br>
-      <br>
-      <strong>SAINT-EMILION GRAND CRU</strong><br>
-      Château Canon La Gaffelière, Château Ausone, Château Cheval Blanc, Château Angélus, Château Pavie, Château Figeac, Château Troplong Mondot, La Mondotte,
-      Château Berliquet...<br>
-      <br>
-      <strong>SAINT-­ESTÈPHE</strong><br>
-      Château Cos d’Estournel, Château Calon Ségur, Château Phélan Ségur, Château Montrose...<br>
-      <br>
-      <strong>SAUTERNES</strong><br>
-      Château d’Yquem, Château Rieussec...<br>
-      <br>'
-
-  # Introduction
-  introduction:
-    title: A Few Words
-    text: 'A rich portfolio for a wide range of proposals.<br><br>Close links, without intermediaries, with our castles and houses to offer the best wines at the best price, assuring quality and provenance of the products.<br><br><strong class = "purple">More than a wine merchant company, we think of ourselves as a wine club.</strong><br><br>We want to share our passion for wine around monthly events.'
 
   # Onglets
   tabs:
