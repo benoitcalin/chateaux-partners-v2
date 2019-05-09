@@ -9,6 +9,12 @@
   align-items: center;
 }
 
+@media(max-width: 576px) {
+  .image-holder-intro {
+    align-items: flex-end;
+  }
+}
+
 .introduction {
   width: 50%;
   display: flex;
@@ -20,5 +26,11 @@
   background-color: white;
   p {
     text-align: center;
+  }
+}
+
+@media(max-width: 576px) {
+  .introduction {
+    width: 100%;
   }
 }
