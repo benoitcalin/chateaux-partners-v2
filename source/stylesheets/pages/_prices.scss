@@ -1,0 +1,32 @@
+.prices-btns {
+  background: $purple;
+  opacity: 1;
+  padding: 8px 15px 8px 15px;
+  border: none;
+  color: #fff;
+  margin: 1%;
+  &:hover {
+    background: #854eb2;
+    box-shadow:none;
+    -moz-box-shadow:none;
+    -webkit-box-shadow:none;
+  }
+}
+
+.prices-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.prices-image {
+  width: 75%;
+}
+
+@media(max-width: 585px) {
+  .prices-image {
+    width: 100%;
+  }
+}

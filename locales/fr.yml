@@ -106,7 +106,7 @@ fr:
     - title: 'Développement durable'
       content: "Nous nous efforçons de promouvoir des partenaires sensibles aux contraintes liées à l'environnement et au fonctionnement de la société. Parce que nous estimons que la viticulture se doit de s'inscrire dans un ensemble environnemental, nous mettons en avant les partenaires qui utilisent des méthodes naturelles pour exalter l'identité du vin.<br><br>Châteaux Partners, avec sa gamme « Envie de » produit des vins sans sulfites en collaboration avec des petits producteurs régionaux car nous croyons en l’avenir de ce vin et le virage que doit entreprendre notre secteur."
       image: 'environment.jpg'
-      alt: 'Globe en verre sur mousse'
+      alt: 'Terre dans les mains'
 
     - title: "Châteaux Partners c'est:"
       content: "- 10 Collaborateurs,
@@ -140,7 +140,7 @@ fr:
                 <br>
                 <br>Nous sommes là pour transmettre et révéler toute la subtilité derrière une bouteille, surprendre, faire plaisir et initier notre clientèle amatrice de bon vin et champagne.'
       image: 'degustation.jpg'
-      alt: 'Verre de vin'
+      alt: 'Verres de champagne'
 
     - title: 'Evénements'
       content: 'Notre positionnement nous permet aujourd’hui de voyager et de rencontrer notre clientèle.<br>Durant ces déplacements, nous avons pour habitude d’organiser différents évènements.
@@ -217,6 +217,11 @@ fr:
     btn: Retour Au Site
 
   back: Retour
+
+  prices:
+    btn: Télécharger
+    btn2: Nous contacter
+    alt: Liste des prix
 
   # Alt text for background images
   alternates:

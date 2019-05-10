@@ -15,6 +15,13 @@
   }
 }
 
+.scroll-snap {
+  scroll-snap-type: y mandatory;
+  display: flex;
+  align-items: center;
+  overflow-y: scroll;
+}
+
 .content-holder {
   width: 450px;
   border: 1px solid rgba(0, 0, 0, 0.2);

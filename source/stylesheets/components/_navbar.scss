@@ -19,7 +19,6 @@
 
 .navbar-tabs {
   width: 100%;
-  height: 40px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,6 +27,7 @@
   a {
     text-decoration: none;
     color: $purple;
+    padding: 2%;
     :hover {
       font-weight: 400;
     }

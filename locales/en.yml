@@ -96,7 +96,7 @@ en:
     - title: 'Sustainable Development'
       content: 'We strive to promote partners who are sensitive to the constraints associated with the environment and the functioning of society. Because we believe that viticulture should be part of an environmental package, we bring forward partners who use natural methods to exalt the identity of the wine. <br><br>Châteaux Partners, with its "Envie de" range produces sulphite-free wines in collaboration with small regional producers because we believe in the future of this wine and the turn that must be undertaken by our sector.'
       image: 'environment.jpg'
-      alt: 'Glass globe on moss'
+      alt: 'Earth in cupped hands'
 
     - title: "Châteaux Partners is:"
       content: "- 10 Collaborators,
@@ -127,7 +127,7 @@ en:
                 <br>
                 <br>We are here to convey and reveal all the subtlety behind a bottle, surprise, delight and initiate our clientele amateur of good wine and champagne.'
       image: 'degustation.jpg'
-      alt: 'Glass of wine'
+      alt: 'Glasses of champagne'
 
     - title: 'Events'
       content: 'Our positioning allows us to travel and meet our clients.
@@ -206,6 +206,11 @@ en:
     btn: Back to Homepage
 
   back: Back
+
+  prices:
+    btn: Download
+    btn2: Contact Us
+    alt: Price List
 
   # Alt text for background images
   alternates:
