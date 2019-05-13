@@ -12,8 +12,7 @@
 @media(max-width: 576px) {
   .image-holder {
     max-height: 300px;
-    background-position: center center;
-    background-size: fit;
+    background-size: contain;
   }
 }
 
