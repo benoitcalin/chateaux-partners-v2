@@ -11,8 +11,14 @@
 
 @media(max-width: 576px) {
   .image-holder {
+    width: 100%;
     max-height: 300px;
-    min-width: 100%;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
   }
 }
 
