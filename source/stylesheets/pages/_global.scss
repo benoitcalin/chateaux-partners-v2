@@ -11,7 +11,8 @@
 
 @media(max-width: 576px) {
   .image-holder {
-    height: 300px;
+    max-height: 300px;
+    min-width: 100%;
   }
 }
 
