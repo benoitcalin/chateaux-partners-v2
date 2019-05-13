@@ -3,7 +3,7 @@
   height: 100vh;
   background-position: center center;
   background-attachment: fixed;
-  background-repeat: none;
+  background-repeat: no-repeat;
   background-size: cover;
   display: flex;
   justify-content: flex-end;
@@ -12,9 +12,9 @@
 
 @media(max-width: 576px) {
   .image-holder {
-    max-height: 300px;
+    height: 200px;
+    background-repeat: no-repeat;
     background-size: contain;
-    background-repeat: none;
   }
 }
 
