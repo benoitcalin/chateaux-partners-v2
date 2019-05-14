@@ -1,9 +1,21 @@
 <div class="image-holder-intro" style="background-image: linear-gradient(0.55deg, #000000 -40.74%, rgba(255, 255, 255, 0) 53.77%), url(<%= image_path 'fond_expertise.jpeg' %>)">
 
-  <div class='introduction'>
-    <h3><%= t(:introduction)[:title] %></h3>
-    <p><%= t(:introduction)[:text] %></p>
+  <div class='content-holder content desktop-card'>
+    <div class="title-container">
+      <h3><%= t(:introduction)[:title] %></h3>
+    </div>
+    <div class="text-container">
+      <p><%= t(:introduction)[:text] %></p>
+    </div>
   </div>
+</div>
+<div class='content-holder content mobile-card d-none'>
+  <div class="title-container">
+      <h3><%= t(:introduction)[:title] %></h3>
+    </div>
+    <div class="text-container">
+      <p><%= t(:introduction)[:text] %></p>
+    </div>
 </div>
 
 <% t(:events).each do |e| %>
