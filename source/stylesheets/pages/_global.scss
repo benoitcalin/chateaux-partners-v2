@@ -92,6 +92,16 @@
   }
 }
 
+.text-container-intro {
+  padding-top: 2%;
+  height: calc(100% - 40px);
+  overflow-y: scroll;
+  p {
+    text-overflow: ellipsis;
+    text-align: center;
+  }
+}
+
 
 ::-webkit-scrollbar {
     -webkit-appearance: none;
