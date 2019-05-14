@@ -25,7 +25,7 @@ en:
       image: 'clients.jpeg'
       alt: 'Champagne glasses are being filled'
       title: 'Our Clients'
-      content: 'We do our best to satisfy our clientele, which historically consists of large European and foreign companies, members of international business committees, government institutions, as well as self-made-(wo)men from Japan to New York. We share our passion for wine by listening to the desire of everyone and organising prestigious events all over the world, with a great concern for quality.'
+      content: 'We do our best to satisfy our clientele, which historically consists of large European and foreign companies, members of international business committees, government institutions, as well as self-made-(wo)men from Japan to New York.<br><br>We share our passion for wine by listening to the desire of everyone and organising prestigious events all over the world, with a great concern for quality.'
 
     - id: evolution
       image: 'evolution.png'

@@ -9,8 +9,27 @@
   align-items: center;
 }
 
+.image-holder-intro {
+  width: 100%;
+  height: 100vh;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  .content {
+    width: 50%;
+    margin-top: 20%;
+  }
+}
+
 @media(max-width: 576px) {
   .image-holder {
+    height: 300px;
+    background-attachment: scroll;
+  }
+  .image-holder-intro {
     height: 300px;
     background-attachment: scroll;
   }
@@ -32,9 +51,9 @@
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.8);
   color: $purple;
-  padding: 0 2% 2% 2%;
+  padding: 5px 2% 2% 2%;
 }
 
 @media(max-width: 576px) {
@@ -64,11 +83,12 @@
 }
 
 .text-container {
-  padding-top: 5px;
+  padding-top: 2%;
   height: calc(100% - 40px);
   overflow-y: scroll;
   p {
     text-overflow: ellipsis;
+    text-align: justify;
   }
 }
 

@@ -29,7 +29,10 @@ fr:
       image: 'clients.jpeg'
       alt: 'On remplit des flûtes de champagne'
       title: 'Nos Clients'
-      content: 'Nous travaillons pour satisfaire au mieux notre clientèle qui historiquement se compose de grandes familles européennes et étrangères, de membres de comités d’entreprises internationales, d’institutions gouvernementales, ainsi que de self-made-(wo)men du Japon à New-York. Nous partageons notre passion pour le vin en étant à l’écoute des envies de chacun et en organisant des évènements de prestige partout dans le monde, avec un grand souci de qualité.'
+      content: 'Nous travaillons pour satisfaire au mieux notre clientèle qui historiquement se compose de grandes familles européennes et étrangères, de membres de comités d’entreprises internationales, d’institutions gouvernementales, ainsi que de self-made-(wo)men du Japon à New-York.
+      <br>
+      <br>
+      Nous partageons notre passion pour le vin en étant à l’écoute des envies de chacun et en organisant des évènements de prestige partout dans le monde, avec un grand souci de qualité.'
 
     - id: evolution
       image: 'evolution.png'
