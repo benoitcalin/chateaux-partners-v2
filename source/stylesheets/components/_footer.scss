@@ -1,6 +1,7 @@
 .footer {
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
+  align-items: center;
   p {
     font-size: 9px;
     padding: 3px 7px;
@@ -11,13 +12,6 @@
     padding: 3px 7px;
     margin: 0;
   }
-}
-
-.footer-right-part {
-  display: flex;
-  flex-grow: 1;
-  align-items: center;
-  justify-content: flex-end
 }
 
 .mentions {

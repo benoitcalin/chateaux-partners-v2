@@ -1,22 +1,22 @@
-<div class="wrapper" style="background-image: linear-gradient(60deg, rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url(<%= image_path 'fond_contact.jpg' %>)" alt="<%= t(:alternates)[:contact] %>">
+<div class="thk-wrapper" style="background-image: linear-gradient(60deg, rgba(0,0,0,0.5), rgba(0,0,0,0.2)), url(<%= image_path 'fond_contact.jpg' %>)" alt="<%= t(:alternates)[:contact] %>">
 
-  <div class="mail-confirmation">
+  <div class="thk-confirmation">
     <!-- Content -->
-    <div class="modal-content text-center">
+    <div class="thk-content text-center">
       <div>
-        <h3 class='modal-title underline'>
+        <h3 class='thk-title underline'>
           <%= t(:thanks)[:title] %>
         </h3>
       </div>
-      <p class='modal-text'>
+      <p class='thk-text'>
         <%= t(:thanks)[:text] %>
       </p>
-      <%= link_to t(:thanks)[:btn], '/history.html', class: 'btn btn-primary modal-btn' %>
+      <%= link_to t(:thanks)[:btn], '/history.html', class: 'btn btn-primary thk-btn' %>
     </div>
   </div>
 
 </div>
 
 <div class='fixed'>
-  <%= link_to link_to t(:mentions), "/en/mentions.html", class: "mentions" %>
+  <%= link_to link_to t(:mentions), "/mentions.html", class: "mentions" %>
 </div>
