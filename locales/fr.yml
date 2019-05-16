@@ -117,7 +117,7 @@ fr:
       <br>- 2 100 Clients Actifs,
       <br>- 120 Partenaires Viticoles,
       <br>- 600 000 Bouteilles de Grands Crus."
-      image: 'encart.jpeg'
+      image: 'encart.jpg'
       alt: 'Encart Châteaux Partners'
 
   # Introduction
@@ -142,7 +142,7 @@ fr:
                 <br>Chaque millésime et processus de vinification de la vigne jusqu’à la mise en bouteille apporte aux vins toute sa caractéristique.
                 <br>
                 <br>Nous sommes là pour transmettre et révéler toute la subtilité derrière une bouteille, surprendre, faire plaisir et initier notre clientèle amatrice de bon vin et champagne.'
-      image: 'degustation.jpg'
+      image: 'degustation.jpeg'
       alt: 'Verres de champagne'
 
     - title: 'Evénements'

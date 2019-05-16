@@ -104,7 +104,7 @@ en:
       <br>- 2,100 Active Customers,
       <br>- 120 Winegrowers Partners,
       <br>- 600,000 Grands Crus Bottles."
-      image: 'encart.jpeg'
+      image: 'encart.jpg'
       alt: 'Inset Châteaux Partners'
 
   # Introduction
@@ -126,7 +126,7 @@ en:
                 <br>Every Vintage and process of vinification from the vine to the bottling brings to the wines all its characteristic.
                 <br>
                 <br>We are here to convey and reveal all the subtlety behind a bottle, surprise, delight and initiate our clientele amateur of good wine and champagne.'
-      image: 'degustation.jpg'
+      image: 'degustation.jpeg'
       alt: 'Glasses of champagne'
 
     - title: 'Events'
