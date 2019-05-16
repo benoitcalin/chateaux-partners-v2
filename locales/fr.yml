@@ -128,7 +128,7 @@ fr:
           <br><strong class="purple">Plus qu’une maison de négoce, nous nous pensons comme un Wine Club.</strong><br>
           <br>Nous souhaitons partager notre passion du vin autour d’évènements mensuels.'
 
-  # Evènements
+  # Savoir Faire
   events:
     - title: 'Dégustations'
       content: 'Nous organisons chaque mois des dégustations dans plusieurs villes du monde pour faire découvrir et partager la richesse de nos vins et champagnes Français pour une expérience sans égale.
@@ -170,6 +170,11 @@ fr:
       image: 'livraison.jpeg'
       alt: 'Mains tenant des raisins'
 
+    - title: 'Wine Tour'
+      content: 'De part notre relation étroite avec les acteurs de la place bordelaise, nous avons l’opportunité de vous proposer des wine tour.<br><br>Vous pourrez ainsi partir à la découverte des vignobles de la région de Bordeaux avec ou sans un chauffeur et déguster des vins lors de visites dans les châteaux les plus prestigieux. <br><br>Nous tacherons de vous concocter un programme fait par un professionnel qui écoutera vos préférences et vous conseillera sur les meilleurs endroits où aller selon vos envies. <br><br>A ce service s’ajoute la possibilité de commander auprès de Châteaux Partners vos coup de cœur à tarif préférentiel que nous nous chargerons de vous envoyer à votre domicile. Cela vous évitera ainsi d’avoir à prendre avec vous vos vins si vous êtes en déplacement en avion ou train.<br><br>N’hésitez pas à vous renseigner sur nos offres : il y en a pour toutes les bourses, défiant toutes concurrences, avec des disponibilités pour quasiment toutes les époques de l’année !'
+      image: 'winetour.jpeg'
+      alt: 'Bouteille sur un tonneau'
+
   # Contact
   contact:
     title: Nous contacter
@@ -185,12 +190,12 @@ fr:
     - title: 'Notre Histoire'
       short_title: 'Histoire'
       url: 'index.html'
-    - title: 'Notre Philosophie'
-      short_title: 'Philosophie'
-      url: 'philosophy.html'
     - title: 'Notre Savoir-Faire'
       short_title: 'Savoir-Faire'
       url: 'expertise.html'
+    - title: 'Notre Philosophie'
+      short_title: 'Philosophie'
+      url: 'philosophy.html'
     - title: 'Nos Tarifs'
       short_title: 'Tarifs'
       url: 'prices.html'
@@ -210,6 +215,7 @@ fr:
     order: 'Commande'
     events: 'Evènements'
     info: 'Informations'
+    winetour: 'Wine Tour'
     message: 'Votre Message '
     submit: 'Envoyer'
 
@@ -225,6 +231,8 @@ fr:
     btn: Télécharger
     btn2: Nous contacter
     alt: Liste des prix
+
+  mentions: Mentions légales
 
   # Alt text for background images
   alternates:

@@ -156,6 +156,11 @@ en:
       image: 'livraison.jpeg'
       alt: 'Hands holding grapes'
 
+    - title: 'Wine Tour'
+      content: 'Thanks to our close relationship with the actors of the Bordeaux community, we have the opportunity to offer you wine tours.<br><br>You will be able to discover the vineyards of the Bordeaux region, with or without a driver, and taste wines during visits to the most prestigious châteaux.<br><br>A professional will prepare a program and will listen to your preferences and advise you on the best places to go according to your desires.<br><br>In addition to this service, you can order from Châteaux Partners your favorite wines at a preferential rate, delivered directly at home. This will prevent you from having to handle personally your wines if you are traveling by plane or train.<br><br>Do not hesitate to inquire about our offers: there are for all budgets, with defying competition rates, and available almost all year!'
+      image: 'winetour.jpeg'
+      alt: 'Bottle on a '
+
   # Contact
   contact:
     title: Contact Us
@@ -171,12 +176,12 @@ en:
     - title: 'Our History'
       short_title: 'History'
       url: 'en/index.html'
-    - title: 'Our Philosophy'
-      short_title: 'Philosophy'
-      url: 'en/philosophy.html'
     - title: 'Our Expertise'
       short_title: 'Expertise'
       url: 'en/expertise.html'
+    - title: 'Our Philosophy'
+      short_title: 'Philosophy'
+      url: 'en/philosophy.html'
     - title: 'Our Price List'
       short_title: 'Price List'
       url: 'en/prices.html'
@@ -196,6 +201,7 @@ en:
     order: 'Order'
     events: 'Events'
     info: 'Information'
+    winetour: 'Wine Tour'
     message: 'Your Message '
     submit: 'Submit'
 
@@ -211,6 +217,8 @@ en:
     btn: Download
     btn2: Contact Us
     alt: Price List
+
+  mentions: Legal notices
 
   # Alt text for background images
   alternates:

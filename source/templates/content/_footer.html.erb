@@ -1,0 +1,17 @@
+<div class="footer" style="background: white">
+  <div>
+    <h4><%= t(:contact)[:name] %></h4>
+    <p><%= t(:contact)[:address] %></p>
+  </div>
+  <div>
+    <p>tel: +33 (0)5 57 60 20 61</p>
+    <p>mail: <%= t(:contact)[:mail] %></p>
+  </div>
+  <div class="footer-right-part">
+    <% if I18n.locale == :fr %>
+      <%= link_to link_to t(:mentions), "/mentions.html", class: "mentions" %>
+    <% else %>
+      <%= link_to link_to t(:mentions), "/en/mentions.html", class: "mentions" %>
+    <% end %>
+  </div>
+</div>
