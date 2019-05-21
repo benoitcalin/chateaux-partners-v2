@@ -29,7 +29,7 @@ fr:
       image: 'clients.jpeg'
       alt: 'On remplit des flûtes de champagne'
       title: 'Nos Clients'
-      content: 'Nous travaillons pour satisfaire au mieux notre clientèle qui historiquement se compose de grandes familles européennes et étrangères, de membres de comités d’entreprises internationales, d’institutions gouvernementales, ainsi que de self-made-(wo)men du Japon à New-York.
+      content: 'Nous travaillons pour satisfaire au mieux notre clientèle qui historiquement se compose de grandes familles européennes et étrangères, de membres de comités d’entreprises internationales, d’institutions gouvernementales, ainsi que de self-made-(wo)men du Tokyo à New-York.
       <br>
       <br>
       Nous partageons notre passion pour le vin en étant à l’écoute des envies de chacun et en organisant des évènements de prestige partout dans le monde, avec un grand souci de qualité.'
@@ -38,12 +38,12 @@ fr:
       image: 'evolution.png'
       alt: 'Des bouteilles de Chateaneuf Du Pape'
       title: 'Notre Evolution'
-      content: 'À la suite de l’arrivée de notre nouveau président M. El Yousfi-Goldberg, issu d’une famille viticole en
+      content: 'À la suite de l’arrivée de notre nouveau Président M. El Yousfi-Goldberg, issu d’une famille viticole en
       Châteauneuf du Pape, il a été décidé de proposer des vins du Côte du Rhône et d’étendre notre entrée de gamme
       pour offrir l’opportunité à chacun de découvrir la richesse des vins français.
       <br>
       <br>
-      Afin de répondre aux demandes de nos clients nous avons également crée notre propre vin sous différentes
+      Afin de répondre aux demandes de nos clients nous avons également créé notre propre vin sous différentes
       étiquettes avec en tête d’affiche « Envie de ».'
 
     - id: selection
@@ -55,7 +55,7 @@ fr:
       <br>
 
       <strong>CHAMPAGNE</strong><br>
-      Dom Perignon, Salon-Delamotte, Taittinger, Billecart Salmon, Michel Reybier, Armand de Brignac...<br>
+      Dom Perignon, Salon, Delamotte, Taittinger, Billecart Salmon, Michel Reybier, Armand de Brignac, Roederer Cristal...<br>
       <br>
 
       <strong>COTES DU RHONE</strong><br>
@@ -79,11 +79,11 @@ fr:
       <br>
 
       <strong>SAINT-JULIEN</strong><br>
-      Château Léoville Las Cases, Château Leoville Poyferre, Château Leoville Barton, Château Ducru Beaucaillou, Château Beychevelle, Château Gruaud Larose...<br>
+      Château Léoville Las Cases, Château Léoville Poyferré, Château Léoville Barton, Château Ducru Beaucaillou, Château Beychevelle, Château Gruaud Larose...<br>
       <br>
 
       <strong>SAINT-EMILION GRAND CRU</strong><br>
-      Château Cheval Blanc, Château Pavie, Château Figeac, Château Canon La Gaffelière, Château La Mondotte, Château Beau-Séjour Bécot, Château La Gomerie, Château Valandraud...<br>
+      Château Cheval Blanc, Château Pavie, Château Figeac, Château Canon La Gaffelière, Château La Mondotte, Château Beau-Séjour Bécot, Château La Gomerie, Château Valandraud, Château Angélus...<br>
       <br>
 
       <strong>SAINT-­ESTÈPHE</strong><br>
@@ -102,12 +102,12 @@ fr:
       alt: 'Trois verres de vins blanc'
 
     - title: 'Viticulture'
-      content: "L’agriculture est à la base de notre activité, nous travaillons avec plus de 120 Chateaux et Maisons de Champagnes, y compris des exploitations familiales.<br><br>Nous accompagnons dans le développement commercial et humain aussi bien des maisons réputées que des châteaux en devenir. Nous sommes en étroite collaboration avec plusieurs viticulteurs en Bordeaux, Cotes du Rhône et Cotes de Provence dans l’élaboration de notre gamme « Envie de » et ses différentes déclinaisons.<br><br>Notre conception : partager ce que la terre peut nous offrir."
+      content: "L’agriculture est à la base de notre activité, nous travaillons avec plus de 120 Chateaux et Maisons de Champagnes, y compris des exploitations familiales.<br><br>Nous accompagnons dans le développement commercial et humain aussi bien des maisons réputées que des châteaux en devenir. Nous sommes en étroite collaboration avec plusieurs viticulteurs en Bordeaux, Cotes du Rhône et Cotes de Provence dans l’élaboration de notre gamme « Envie de » et ses différentes déclinaisons.<br><br>Notre conception : partager et faire découvrir ce que la terre peut nous offrir."
       image: 'viticulture.jpg'
       alt: 'Choucher de soleil sur des vignes'
 
     - title: 'Développement durable'
-      content: "Nous nous efforçons de promouvoir des partenaires sensibles aux contraintes liées à l'environnement et au fonctionnement de la société. Parce que nous estimons que la viticulture se doit de s'inscrire dans un ensemble environnemental, nous mettons en avant les partenaires qui utilisent des méthodes naturelles pour exalter l'identité du vin.<br><br>Châteaux Partners, avec sa gamme « Envie de » produit des vins sans sulfites en collaboration avec des petits producteurs régionaux car nous croyons en l’avenir de ce vin et le virage que doit entreprendre notre secteur."
+      content: "Nous nous efforçons de promouvoir des partenaires sensibles aux contraintes liées à l'environnement et au fonctionnement de la société. Parce que nous estimons que la viticulture se doit de s'inscrire dans un ensemble environnemental, nous mettons en avant les partenaires qui utilisent des méthodes naturelles pour exalter l'identité du vin et préserver la terre.<br><br>Châteaux Partners, avec sa gamme « Envie de », est dans cette tendance avec sa déclinaison sans sulfite."
       image: 'environment.jpg'
       alt: 'Terre dans les mains'
 
@@ -124,7 +124,7 @@ fr:
   introduction:
     title: Quelques mots
     text: 'Un portefeuille riche pour une proposition de gamme très variée.<br>
-          <br>Des liens étroits, sans intermédiaires, avec nos Châteaux et Maisons pour proposer les meilleurs vins au meilleur prix, assurant qualité et provenance des produits.<br>
+          <br>Des liens étroits avec nos Châteaux et Maisons pour proposer les meilleurs vins, assurant qualité et provenance des produits.<br>
           <br><strong class="purple">Plus qu’une maison de négoce, nous nous pensons comme un Wine Club.</strong><br>
           <br>Nous souhaitons partager notre passion du vin autour d’évènements mensuels.'
 
@@ -137,22 +137,22 @@ fr:
                 <br>
                 <br>Chaque terroir, chaque terre et chaque climat donne aux cépages leurs qualités premières et leurs particularités.
                 <br>
-                <br>Chaque famille, homme et femme qui travaillent au quotidien pour ces emblématiques châteaux et maison ont une passion à transmettre.
+                <br>Chaque famille, hommes et femmes qui travaillent au quotidien pour ces emblématiques châteaux et maison ont une passion à transmettre.
                 <br>
                 <br>Chaque millésime et processus de vinification de la vigne jusqu’à la mise en bouteille apporte aux vins toute sa caractéristique.
                 <br>
-                <br>Nous sommes là pour transmettre et révéler toute la subtilité derrière une bouteille, surprendre, faire plaisir et initier notre clientèle amatrice de bon vin et champagne.'
+                <br>Nous sommes là pour transmettre et révéler toute la subtilité derrière une bouteille, surprendre, faire plaisir et initier notre clientèle amatrice de bon vin et Champagne.'
       image: 'degustation.jpeg'
       alt: 'Verres de champagne'
 
     - title: 'Evénements'
-      content: 'Notre positionnement nous permet aujourd’hui de voyager et de rencontrer notre clientèle.<br>Durant ces déplacements, nous avons pour habitude d’organiser différents évènements.
+      content: 'Notre positionnement nous permet aujourd’hui de voyager et de rencontrer notre clientèle. Durant ces déplacements, nous avons pour habitude d’organiser différents évènements.
                 <br>
                 <br>Nous sommes habituellement accompagnés des représentants de chaque château et maison de champagne que nous faisons déguster.
                 <br>
-                <br>Nous considérons qu’il est important que les châteaux voient en direct à qui les vins s’adressent et vice versa. Il est important à nos yeux d’assurer et rassurer notre clientèle sur la provenance de nos vins.
+                <br>Nous considérons que la transparence entre nos châteaux et la clientèle finale est primordiale. Il est important à nos yeux d’assurer et rassurer notre clientèle sur la provenance de nos vins, tout comme le fait que les représentants de Châteaux et Maisons rencontrent nos clients.
                 <br>
-                <br>Nous restons également à l’écoute d’envie de la part de notre clientèle pour des dégustations, des diners d’entreprises, des séminaires dégustations ou la préparation de tous types d’évènements (mariage, anniversaire…)'
+                <br>Nous restons également à l’écoute de vos envies pour des dégustations, des diners d’entreprises, des séminaires dégustations ou la préparation de tous types d’évènements (mariage, anniversaire…).'
       image: 'evenements.jpg'
       alt: 'Bouteilles du domaine La Romanée-Conti'
 
@@ -166,12 +166,12 @@ fr:
       alt: 'Caisses de vin sur une étagère'
 
     - title: 'Livraison'
-      content: 'Notre équipe, dynamique et à l’écoute de vos besoins, vous conseille et répond à vos demandes en 12h.<br>La livraison de vos commandes est assurée sous 15 jours.'
+      content: 'Notre équipe, dynamique et à l’écoute de vos besoins, vous conseille et répond à vos demandes en 12h.<br>La livraison de vos commandes est assurée dans les meilleures conditions.'
       image: 'livraison.jpeg'
       alt: 'Mains tenant des raisins'
 
-    - title: 'Wine Tour'
-      content: 'De part notre relation étroite avec les acteurs de la place bordelaise, nous avons l’opportunité de vous proposer des wine tour.<br><br>Vous pourrez ainsi partir à la découverte des vignobles de la région de Bordeaux avec ou sans un chauffeur et déguster des vins lors de visites dans les châteaux les plus prestigieux.<br><br>Nous tacherons de vous concocter un programme fait par un professionnel qui écoutera vos préférences et vous conseillera sur les meilleurs endroits où aller selon vos envies.<br><br>A ce service s’ajoute la possibilité de commander auprès de Châteaux Partners vos coup de coeurs à tarif préférentiel que nous nous chargerons de vous envoyer à votre domicile. Cela vous évitera ainsi d’avoir à prendre avec vous vos vins si vous êtes en déplacement en avion ou train.<br><br>N’hésitez pas à vous renseigner sur nos offres : il y en a pour toutes les bourses, défiant toutes concurrences, avec des disponibilités pour quasiment toutes les époques de l’année !'
+    - title: 'Wine Tours'
+      content: 'De part notre relation étroite avec les acteurs de la place bordelaise, nous avons l’opportunité de vous proposer des wine tours.<br><br>Vous pourrez ainsi partir à la découverte des vignobles de la région de Bordeaux avec ou sans un chauffeur et déguster des vins lors de visites dans les châteaux les plus prestigieux.<br><br>Nous tâcherons de vous présenter un programme fait par un professionnel qui écoutera vos préférences et vous conseillera sur les meilleurs endroits où aller selon vos envies.<br><br>A ce service s’ajoute la possibilité de commander auprès de Châteaux Partners vos coups de coeur, que nous nous chargerons de vous envoyer à votre domicile. Cela vous évitera ainsi d’avoir à prendre avec vous vos vins si vous êtes en déplacement en avion ou train.<br><br>N’hésitez pas à vous renseigner sur nos offres, nous avons des disponibilités pour quasiment toutes les périodes de l’année.'
       image: 'winetour.jpeg'
       alt: 'Bouteille sur un tonneau'
 
@@ -196,9 +196,9 @@ fr:
     - title: 'Notre Philosophie'
       short_title: 'Philosophie'
       url: 'philosophy.html'
-    - title: 'Nos Tarifs'
-      short_title: 'Tarifs'
-      url: 'prices.html'
+    # - title: 'Nos Tarifs'
+    #   short_title: 'Tarifs'
+    #   url: 'prices.html'
     - title: 'Nous Contacter'
       short_title: 'Contact'
       url: 'contact_us.html'
