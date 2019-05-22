@@ -3,7 +3,7 @@ activate :autoprefixer do |prefix|
 end
 
 activate :sprockets
-activate :i18n, mount_at_root: :fr, langs: [:fr, :en]
+activate :i18n, mount_at_root: false, langs: [:fr, :en]
 
 page '/*.xml', layout: false
 page '/*.json', layout: false
