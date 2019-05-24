@@ -18,20 +18,20 @@ en:
     - id: historic
       image: 'historic.jpeg'
       alt: 'Grape on a vineyard'
-      title: 'The Meeting'
-      content: 'Our story stems from the meeting between two wine-grower families from Saint-Emilion and from Burgundy which gave birth in 2013 to our wine merchant company: Châteaux partners.<br><br>From the beginning of our adventure we had the opportunity to propose classified Grands Crus in Bordeaux and Saint-Emilion, the largest estates of Bourgogne as well as prestigious Champagnes houses to our customers.'
+      title: 'An Encouter'
+      content: 'Our story began with the encounter of two family wine-makers from Saint-Emilion and Burgundy which gave birth in 2013 to our wine merchant company: Châteaux partners.<br><br>From the beginning of our adventure, we have had the opportunity to offer our customers classified Grands Crus from Bordeaux, Saint-Emilion, the largest estates in Bourgogne and prestigious Champagne houses.'
 
     - id: clients
       image: 'clients.jpeg'
       alt: 'Champagne glasses are being filled'
       title: 'Our Clients'
-      content: 'We do our best to satisfy our clientele, which historically consists of large European and foreign companies, members of international business committees, government institutions, as well as self-made-(wo)men from Tokyo to New York.<br><br>We share our passion for wine by listening to the desire of everyone and organising prestigious events all over the world, with a great concern for quality.'
+      content: 'We strive to satisfy our clientele, traditionnally composed of European and international companies, members of international business committees, government institutions, as well as self-made-(wo)men from Tokyo to New York city.<br><br>We share our passion for wine being attentive to individual needs and organising prestigious events all around the world, with a great concern for quality.'
 
     - id: evolution
       image: 'evolution.png'
       alt: 'Some bottles of Chateaneuf Du Pape'
       title: 'Our Evolution'
-      content: 'Following the arrival of our new President Mr. El Yousfi-Goldberg, from a wine-growing family in Châteauneuf du Pape, it was decided to propose wines from Côte du Rhône and to extend our entry-level to give everyone the opportunity to discover the richness of French wines.<br><br>In order to meet the demands of our customers we have also created our own wine under different labels, the principal being the "Envie de".'
+      content: 'Following the arrival of our new President Mr. El Yousfi-Goldberg, from a family wine-maker in Châteauneuf du Pape, we have decided to offer wines from Côte du Rhône and to extend our range entry products to give everyone the opportunity to discover the variety of French wines.<br><br>In order to supply the demands of our customers, we have also created our own wine using different labels, the principal being the "Envie de".'
 
     - id: selection
       image: 'selection.jpeg'
@@ -84,17 +84,17 @@ en:
   # Philosophy
   philosophy:
     - title: 'Collaborators'
-      content: "Chateaux partners’ collaborators are united by our four values of humanism, openness, closeness and enthusiasm, which they bring every day to their work.<br><br>With a worldwide presence in more than 35 countries across the 5 continents; our employees, partners and clients represent a wide range of backgrounds, cultures and different lifestyles."
+      content: "Chateaux partners’ collaborators are united by our four values of humanism, openness, proximity and enthusiasm, which they bring every day to their work.<br><br>With a worldwide presence in more than 35 countries across the 5 continents; our employees, partners and clients represent a wide range of backgrounds, cultures and different lifestyles."
       image: 'collaborators.jpg'
       alt: 'Three white wine glasses'
 
     - title: 'Viticulture'
-      content: 'Agriculture is the basis of our activity, we work with more than 120 châteaux and houses of Champagnes, including family exploitations.  We accompany in the commercial and human development both reputed and aspiring houses and châteaux.<br><br>We are in narrow collaboration with several winegrowers in Bordeaux, Cotes du Rhône and Cotes de Provence in the elaboration of our range "Envie de" and its different variations. <br><br>Our conception: to share what the earth can offer us.'
+      content: 'Agriculture is the basis of our activity, we work with more than 120 châteaux and houses of Champagnes, including family exploitations.  We accompany both reputed and aspiring houses and châteaux in their commercial and human development.<br><br>We are in close collaboration with several winegrowers in Bordeaux, Cotes du Rhône and Cotes de Provence in the elaboration of our range "Envie de" and its different variations. <br><br>Our conception: to share what the earth can offer us.'
       image: 'viticulture.jpg'
       alt: 'Sunset on vineyards'
 
     - title: 'Sustainable Development'
-      content: 'We strive to promote partners who are sensitive to the constraints associated with the environment and the functioning of society. Because we believe that viticulture should be part of an environmental package, we bring forward partners who use natural methods to exalt the wine identity and preserve what the earth can offer.<br><br>Châteaux Partners, with its "Envie de" range, follow those guide-lines with a declension of sulphite-free wines.'
+      content: 'We strive to promote partners caring about the environment and the functioning of society. Because we believe that viticulture should be part of an environmental package, we promote partners who use natural methods to exalt wine identity and preserve what the earth can offer.<br><br>Châteaux Partners, with its "Envie de" range, follows these guide-lines with a variety of sulphite-free wines.'
       image: 'environment.jpg'
       alt: 'Earth in cupped hands'
 
@@ -102,7 +102,7 @@ en:
       content: "- 10 Collaborators,
       <br>- 35 Countries,
       <br>- 2,100 Active Customers,
-      <br>- 120 Winegrowers Partners,
+      <br>- 120 Winegrowing Partners,
       <br>- 600,000 Grands Crus Bottles."
       image: 'encart.jpg'
       alt: 'Inset Châteaux Partners'
@@ -110,40 +110,40 @@ en:
   # Introduction
   introduction:
     title: A Few Words
-    text: 'A rich portfolio for a wide range of proposals.<br><br>Close links with our Châteaux and Houses to offer the best wines, assuring quality and provenance of the products.<br><br><strong class = "purple">More than a wine merchant company, we think of ourselves as a wine club.</strong><br><br>We want to share our passion for wine around monthly events.'
+    text: 'A rich portfolio for a wide range of offers.<br><br>Close links with our Châteaux and Houses to offer the best wines, ensuring quality and provenance of the products.<br><br><strong class = "purple">More than a wine merchant company, we consider ourselves as a wine club.</strong><br><br>We want to share our passion for wine organising monthly events.'
 
   # Events
   events:
     - title: 'Tastings'
-      content: 'Every month we organise tastings in several cities of the world to discover and share the richness of our French wines and champagnes for an unparalleled experience.
+      content: 'Every month we organise tastings in several cities in the world to discover and share the variety of our French wines and champagnes for an unparalleled experience.
                 <br>
-                <br>Each of these wines and champagnes have a story to tell:
+                <br>Each of these wines and champagnes has a story to tell:
                 <br>
-                <br>Each terroir, every land and every climate gives the grape varieties their raw qualities and their peculiarities.
+                <br>Each terroir, land and climate gives each grape variety its qualities and specificities.
                 <br>
-                <br>Every family, men and women working daily for these iconic châteaux and houses have a passion to convey.
+                <br>Every family, man and woman working daily for these iconic châteaux and houses has a passion to transmit.
                 <br>
-                <br>Every Vintage and process of vinification from the vine to the bottling brings to the wines all its characteristic.
+                <br>Every Vintage and process of vinification from grape to bottle brings to the wines all its characteristics.
                 <br>
-                <br>We are here to convey and reveal all the subtlety behind a bottle, surprise, delight and initiate our clientele fond of good wine and Champagne.'
+                <br>We are here to convey and reveal all the subtlety behind a bottle, as well as surprise and delight, we want to initiate our clientele fond of good wines and Champagnes.'
       image: 'degustation.jpeg'
       alt: 'Glasses of champagne'
 
     - title: 'Events'
-      content: 'Our positioning allows us to travel and meet our clients. During these trips, we usually organize different kind of events.
+      content: 'Our location allows us to travel and meet our clients. During these trips, we usually organize different kinds of events.
                 <br>
-                <br>We are usually accompanied by representatives of each Chateau and champagne House that we taste.
+                <br>We are usually accompanied by representatives from each Chateau and champagne House that will be tested.
                 <br>
-                <br>We consider the transparency between our castles and the final clientele as paramount. It is important for us to ensure and reassure our clientele about the provenance of our wines, as well as the fact that the representatives of Châteaux and Houses meet our customers.
+                <br>We consider the transparency between our Châteaux and the final clientele as paramount. It is important for us to ensure the provenance of our wines and reassure our clientele about. It's also crucial that the representatives of Châteaux and Houses meet our customers.
                 <br>
-                <br>We also remain attentive to your desires reagrding tastings, business dinners, tasting seminars or the preparation of all types of events (wedding, anniversary...).'
+                <br>We are also eager to answer your needs regarding tastings, business dinners, tasting seminars or the preparation of all types of events (wedding, anniversary...).'
       image: 'evenements.jpg'
       alt: 'Bottles of the domain La Romanée-Conti'
 
     - title: 'Storage'
-      content: 'The high quality of service of our warehousekeeper allows storage in perfect conditions.
+      content: 'The high quality service of our warehousekeeper allows a perfect storage.
                 <br>
-                <br>On an area of 3000 m2, located between the right and the left bank, we have chosen one of the largest players in the environment specializing in the storage of fine wines and products from the vine.
+                <br>A 3000m2 building, located near Bordeaux, we have chosen one of the biggest warehousekeepers specializing in the storage of fine wines and products from the vine.
                 <br>
                 <br>The ultra-secure and air-conditioned warehouse meets the requirements for the conservation of great wines, offering optimal conditions.'
       image: 'stockage.jpg'
@@ -155,7 +155,7 @@ en:
       alt: 'Hands holding grapes'
 
     - title: 'Wine Tours'
-      content: 'Thanks to our close relationship with the actors of the Bordeaux community, we have the opportunity to offer you wine tours.<br><br>You will be able to discover the vineyards of the Bordeaux region, with or without a driver, and taste wines during visits to the most prestigious châteaux.<br><br>A professional will prepare a program and will listen to your preferences and advise you on the best places to go according to your desires.<br><br>In addition to this service, you can order from Châteaux Partners your favorite wines, delivered directly at home. This will prevent you from having to handle personally your wines if you are traveling by plane or train.<br><br>Do not hesitate to inquire about our offers, they are available almost all year.'
+      content: 'Thanks to our close relations with the professionals of the Bordeaux community, we have the opportunity to offer you wine tours.<br><br>You will be able to discover the vineyards of the Bordeaux region, with or without a driver, and taste wines during visits to the most prestigious châteaux.<br><br>A professional will prepare a program and will adapt to your preferences and advise you on the best places to go according to your interests.<br><br>In addition to this service, you can order from Châteaux Partners your favorite wines, delivered directly at home. This will prevent you from having to handle  your wines personally if you are travelling by plane or train.<br><br>Do not hesitate to inquire about our offers, they are available throughout the year.'
       image: 'winetour.jpeg'
       alt: 'Bottle on a '
 
