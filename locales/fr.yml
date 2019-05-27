@@ -2,15 +2,15 @@ fr:
   # Metadata
   metadata:
     keywords: 'vin, grands crus, négoce, bordeaux, dégustations, événements, stockage, livraison, wine club, châteaux, sélection, bourgogne, champagne, margaux, pauillac, pessac-leognan, pomerol, saint-julien, saint-emilion-grand-cru, saint-estèphe, sauternes'
-    description: 'Plus qu’une maison de négoce, chez Châteaux Partners nous nous pensons comme un Wine Club.'
+    description: 'Un portefeuille riche pour une proposition de gamme très variée. Des liens étroits avec nos Châteaux et Maisons pour proposer les meilleurs vins, assurant qualité et provenance des produits. Plus qu’une maison de négoce, nous nous pensons comme un Wine Club. Nous souhaitons partager notre passion du vin autour d’évènements mensuels.'
     reply_to: 'contact@chateaux-partners.com'
     category: 'vin'
 
   # Metadata Facebook
   og:
-    url: 'http://chateaux-partners.com/'
+    url: 'https://chateaux-partners.com/'
     title: 'Châteaux Partners'
-    description: 'At Châteaux Partners, we think more of ourselves as a wine club than a trading house.'
+    description: 'Un portefeuille riche pour une proposition de gamme très variée. Des liens étroits avec nos Châteaux et Maisons pour proposer les meilleurs vins, assurant qualité et provenance des produits. Plus qu’une maison de négoce, nous nous pensons comme un Wine Club. Nous souhaitons partager notre passion du vin autour d’évènements mensuels.'
     image: 'facebook.jpg'
 
   # Histoire informations
