@@ -1,20 +1,26 @@
 <div class="footer" style="background: white">
-  <div>
-    <h4><%= t(:contact)[:name] %></h4>
-    <p><%= t(:contact)[:address] %></p>
+  <div class="under-footer">
+    <div>
+      <h4><%= t(:contact)[:name] %></h4>
+      <p><%= t(:contact)[:address] %></p>
+    </div>
+    <div>
+      <p>tel: +33 (0)5 57 60 20 61</p>
+      <p>mail: <%= t(:contact)[:mail] %></p>
+    </div>
   </div>
   <div>
-    <p>tel: +33 (0)5 57 60 20 61</p>
-    <p>mail: <%= t(:contact)[:mail] %></p>
+    <p><%= t(:hours) %></p>
   </div>
+
+  <% if I18n.locale == :fr %>
+    <div class='fixed'>
+      <%= link_to t(:mentions), "/mentions.html", class: "mentions" %>
+    </div>
+  <% else %>
+    <div class='fixed'>
+      <%= link_to t(:mentions), "/en/mentions.html", class: "mentions" %>
+    </div>
+  <% end %>
 </div>
 
-<% if I18n.locale == :fr %>
-  <div class='fixed'>
-    <%= link_to link_to t(:mentions), "/mentions.html", class: "mentions" %>
-  </div>
-<% else %>
-  <div class='fixed'>
-    <%= link_to link_to t(:mentions), "/en/mentions.html", class: "mentions" %>
-  </div>
-<% end %>

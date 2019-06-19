@@ -33,6 +33,39 @@ en:
       title: 'Our Evolution'
       content: 'Following the arrival of our new President Mr. El Yousfi-Goldberg, from a family wine-maker in Châteauneuf du Pape, we have decided to offer wines from Côte du Rhône and to extend our range entry products to give everyone the opportunity to discover the variety of French wines.<br><br>In order to supply the demands of our customers, we have also created our own wine using different labels, the principal being the "Envie de".'
 
+  # Philosophy
+  philosophy:
+    - title: 'Collaborators'
+      content: "Chateaux partners’ collaborators are united by our four values of humanism, openness, proximity and enthusiasm, which they bring every day to their work.<br><br>With a worldwide presence in more than 35 countries across the 5 continents; our employees, partners and clients represent a wide range of backgrounds, cultures and different lifestyles."
+      image: 'collaborators.jpg'
+      alt: 'Three white wine glasses'
+
+    - title: 'Viticulture'
+      content: 'Agriculture is the basis of our activity, we work with more than 120 châteaux and houses of Champagnes, including family exploitations.  We accompany both reputed and aspiring houses and châteaux in their commercial and human development.<br><br>We are in close collaboration with several winegrowers in Bordeaux, Cotes du Rhône and Cotes de Provence in the elaboration of our range "Envie de" and its different variations. <br><br>Our conception: to share what the earth can offer us.'
+      image: 'viticulture.jpg'
+      alt: 'Sunset on vineyards'
+
+    - title: 'Sustainable Development'
+      content: 'We strive to promote partners caring about the environment and the functioning of society. Because we believe that viticulture should be part of an environmental package, we promote partners who use natural methods to exalt wine identity and preserve what the earth can offer.<br><br>Châteaux Partners, with its "Envie de" range, follows these guide-lines with a variety of sulphite-free wines.'
+      image: 'environment.jpg'
+      alt: 'Earth in cupped hands'
+
+    - title: "Châteaux Partners is:"
+      content: "- 10 Collaborators,
+      <br>- 35 Countries,
+      <br>- 2,100 Active Customers,
+      <br>- 120 Winegrowing Partners,
+      <br>- 600,000 Grands Crus Bottles."
+      image: 'encart.jpg'
+      alt: 'Inset Châteaux Partners'
+
+  # Wines
+  wines:
+    - title: "Our Specialty"
+      content: "Châteaux Partners has been a specialist in Classified Grand Crus and Grandes Maisons de Champagnes for 6 years. <br>A key operator of premium sales with 120 Grands Crus classified in Bordeaux, Bourgogne and Côte du Rhône, we have also opted for the long term by investing in vintages that we buy, put in cellars and finance throughout several years.<br>Our financial situation allows us to increase our stocks from year to year and to benefit our customers from 500 varieties of rare and exceptional wines ranging from 1855 to 2018 ranging from 50 to 25,000 euros per bottle."
+      image: 'stocks.png'
+      alt: "Inventory Graph"
+
     - id: selection
       image: 'selection.jpeg'
       alt: 'Corks cover the background'
@@ -81,31 +114,15 @@ en:
       Château d’Yquem, Château Suduiraut...<br>
       <br>'
 
-  # Philosophy
-  philosophy:
-    - title: 'Collaborators'
-      content: "Chateaux partners’ collaborators are united by our four values of humanism, openness, proximity and enthusiasm, which they bring every day to their work.<br><br>With a worldwide presence in more than 35 countries across the 5 continents; our employees, partners and clients represent a wide range of backgrounds, cultures and different lifestyles."
-      image: 'collaborators.jpg'
-      alt: 'Three white wine glasses'
+    - title: '« Petits Châteaux »'
+      content: "We decided to specialize in only French Wines and Champagnes.<br>Thanks to the close relationship we have built with French brokers and owners, our exchanges and tastings throughout France with winemakers, our seasoned expertise we are also able to offer a wide range excellent « Petits Châteaux ».<br>In total, there are 1500 varieties of entry and mid-range wines and champagnes ranging from 3 to 40 euros.<br>We have also created our own wine in different variations bearing the name « Envie de »."
+      image: 'chateau.jpeg'
+      alt: 'Wine bottle'
 
-    - title: 'Viticulture'
-      content: 'Agriculture is the basis of our activity, we work with more than 120 châteaux and houses of Champagnes, including family exploitations.  We accompany both reputed and aspiring houses and châteaux in their commercial and human development.<br><br>We are in close collaboration with several winegrowers in Bordeaux, Cotes du Rhône and Cotes de Provence in the elaboration of our range "Envie de" and its different variations. <br><br>Our conception: to share what the earth can offer us.'
-      image: 'viticulture.jpg'
-      alt: 'Sunset on vineyards'
-
-    - title: 'Sustainable Development'
-      content: 'We strive to promote partners caring about the environment and the functioning of society. Because we believe that viticulture should be part of an environmental package, we promote partners who use natural methods to exalt wine identity and preserve what the earth can offer.<br><br>Châteaux Partners, with its "Envie de" range, follows these guide-lines with a variety of sulphite-free wines.'
-      image: 'environment.jpg'
-      alt: 'Earth in cupped hands'
-
-    - title: "Châteaux Partners is:"
-      content: "- 10 Collaborators,
-      <br>- 35 Countries,
-      <br>- 2,100 Active Customers,
-      <br>- 120 Winegrowing Partners,
-      <br>- 600,000 Grands Crus Bottles."
-      image: 'encart.jpg'
-      alt: 'Inset Châteaux Partners'
+    - title: "Exportation Leaders"
+      content: "We have a powerful distribution network capable of supplying, sometimes bottle by bottle, customers over the world.<br>All our wines and champagnes come directly from the Châteaux and Champagne Houses. We consider that transparency between our Châteaux and the final clientele is paramount.<br>The employees of Châteaux Partners are united by our four values of humanism, openness, closeness and enthusiasm, which they bring every day to their work."
+      image: 'graph.png'
+      alt: "Revenue Graph"
 
   # Introduction
   introduction:
@@ -180,9 +197,9 @@ en:
     - title: 'Our Philosophy'
       short_title: 'Philosophy'
       url: 'en/philosophy.html'
-    # - title: 'Our Price List'
-    #   short_title: 'Price List'
-    #   url: 'en/prices.html'
+    - title: 'Our Wines'
+      short_title: 'Wines'
+      url: 'en/wines.html'
     - title: 'Contact Us'
       short_title: 'Contact'
       url: 'en/contact_us.html'
@@ -217,6 +234,8 @@ en:
     alt: Price List
 
   mentions: Legal notices
+
+  hours: 'Opening hours: 8:30am - 12:00am / 2:00pm - 6:00pm'
 
   # Alt text for background images
   alternates:
