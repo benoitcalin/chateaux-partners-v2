@@ -46,11 +46,43 @@ fr:
       Afin de répondre aux demandes de nos clients nous avons également créé notre propre vin sous différentes
       étiquettes avec en tête d’affiche « Envie de ».'
 
-    - id: selection
+  # Philosophy
+  philosophy:
+    - title: 'Collaborateurs'
+      content: "Les collaborateurs de Châteaux Partners sont unis par nos quatre valeurs d'humanisme, d'ouverture, de proximité et d'enthousiasme, qu'ils apportent chaque jour à leur travail.<br><br>Avec une présence mondiale dans plus de 35 pays à travers les 5 continents ; nos collaborateurs, nos partenaires et nos clients représentent un large éventail d'horizons, de cultures et de modes de vie différents."
+      image: 'collaborators.jpg'
+      alt: 'Trois verres de vins blanc'
+
+    - title: 'Viticulture'
+      content: "L’agriculture est à la base de notre activité, nous travaillons avec plus de 120 Châteaux et Maisons de Champagnes, y compris des exploitations familiales.<br><br>Nous accompagnons dans le développement commercial et humain aussi bien des maisons réputées que des châteaux en devenir. Nous sommes en étroite collaboration avec plusieurs viticulteurs en Bordeaux, Côtes du Rhône et Côtes de Provence dans l’élaboration de notre gamme « Envie de » et ses différentes déclinaisons.<br><br>Notre conception : partager et faire découvrir ce que la terre peut nous offrir."
+      image: 'viticulture.jpg'
+      alt: 'Choucher de soleil sur des vignes'
+
+    - title: 'Développement durable'
+      content: "Nous nous efforçons de promouvoir des partenaires sensibles aux contraintes liées à l'environnement et au fonctionnement de la société. Parce que nous estimons que la viticulture se doit de s'inscrire dans un ensemble environnemental, nous mettons en avant les partenaires qui utilisent des méthodes naturelles pour exalter l'identité du vin et préserver la terre.<br><br>Châteaux Partners, avec sa gamme « Envie de », est dans cette tendance avec sa déclinaison sans sulfite."
+      image: 'environment.jpg'
+      alt: 'Terre dans les mains'
+
+    - title: "Châteaux Partners c'est:"
+      content: "- 10 Collaborateurs,
+      <br>- 35 Pays,
+      <br>- 2 100 Clients Actifs,
+      <br>- 120 Partenaires Viticoles,
+      <br>- 600 000 Bouteilles de Grands Crus."
+      image: 'encart.jpg'
+      alt: 'Encart Châteaux Partners'
+
+  # Wines
+  wines:
+    - title: "Notre Spécialité"
+      content: "Châteaux Partners est spécialiste des Grands Crus Classés et Grandes Maisons de Champagnes depuis 6 ans.<br>Opérateur incontournable des ventes en primeurs avec 120 Grands Crus classés à Bordeaux, Bourgogne et Cote du Rhône, nous avons parallèlement opté pour le long terme en investissant sur des millésimes anciens que nous achetons, mettons en cave et finançons sur plusieurs années.<br>Notre situation financière nous permet d’accroître nos stocks d’années en années et de faire profiter à nos clients de 500 variétés de vins rares et d’exceptions qui vont de 1855 à 2018 allant de 50€ à 25 000€ la bouteille."
+      image: 'stocks.png'
+      alt: "Graphique chiffre d'affaires"
+
+    - title: 'Notre Sélection'
       image: 'selection.jpeg'
       alt: 'Fond rempli de bouchons de liège'
-      title: 'Notre Sélection'
-      content: '<strong>BOURGOGNE</strong><br>
+      content: "<strong>BOURGOGNE</strong><br>
       Domaine de la Romanée Conti, Bouchard Père & Fils, Henri Jayer, Armand Rousseau, Mommessin, Domaine Leroy, Louis Latour, Vincent Girardin, Ponsot, Frédéric Magnien...<br>
       <br>
 
@@ -92,33 +124,17 @@ fr:
 
       <strong>SAUTERNES</strong><br>
       Château d’Yquem, Château Suduiraut...<br>
-      <br>'
+      <br>"
 
-  # Philosophy
-  philosophy:
-    - title: 'Collaborateurs'
-      content: "Les collaborateurs de Châteaux Partners sont unis par nos quatre valeurs d'humanisme, d'ouverture, de proximité et d'enthousiasme, qu'ils apportent chaque jour à leur travail.<br><br>Avec une présence mondiale dans plus de 35 pays à travers les 5 continents ; nos collaborateurs, nos partenaires et nos clients représentent un large éventail d'horizons, de cultures et de modes de vie différents."
-      image: 'collaborators.jpg'
-      alt: 'Trois verres de vins blanc'
+    - title: '« Petits Châteaux »'
+      content: "Nous avons décidé de nous spécialiser uniquement dans les Vins et Champagnes Français.<br>Grâce à la relation étroite que nous avons construite avec les courtiers et propriétaires Français, à nos échanges et dégustations à travers la France auprès des vignerons, à notre expertise aguerrie nous sommes également en mesure de proposer une gamme importante d’excellents « petits châteaux ».<br>Au total c’est 1500 variétés de vins et champagnes d’entrée et moyenne gamme allant de 3€ à 40€.<br>Nous avons également créé notre propre vin sous différentes déclinaisons portant le nom de « Envie de »."
+      image: 'chateau.jpeg'
+      alt: 'Bouteille de vin'
 
-    - title: 'Viticulture'
-      content: "L’agriculture est à la base de notre activité, nous travaillons avec plus de 120 Châteaux et Maisons de Champagnes, y compris des exploitations familiales.<br><br>Nous accompagnons dans le développement commercial et humain aussi bien des maisons réputées que des châteaux en devenir. Nous sommes en étroite collaboration avec plusieurs viticulteurs en Bordeaux, Côtes du Rhône et Côtes de Provence dans l’élaboration de notre gamme « Envie de » et ses différentes déclinaisons.<br><br>Notre conception : partager et faire découvrir ce que la terre peut nous offrir."
-      image: 'viticulture.jpg'
-      alt: 'Choucher de soleil sur des vignes'
-
-    - title: 'Développement durable'
-      content: "Nous nous efforçons de promouvoir des partenaires sensibles aux contraintes liées à l'environnement et au fonctionnement de la société. Parce que nous estimons que la viticulture se doit de s'inscrire dans un ensemble environnemental, nous mettons en avant les partenaires qui utilisent des méthodes naturelles pour exalter l'identité du vin et préserver la terre.<br><br>Châteaux Partners, avec sa gamme « Envie de », est dans cette tendance avec sa déclinaison sans sulfite."
-      image: 'environment.jpg'
-      alt: 'Terre dans les mains'
-
-    - title: "Châteaux Partners c'est:"
-      content: "- 10 Collaborateurs,
-      <br>- 35 Pays,
-      <br>- 2 100 Clients Actifs,
-      <br>- 120 Partenaires Viticoles,
-      <br>- 600 000 Bouteilles de Grands Crus."
-      image: 'encart.jpg'
-      alt: 'Encart Châteaux Partners'
+    - title: "Leader à l’export"
+      content: "Nous avons un réseau de distribution puissant capable d’approvisionner, parfois bouteille par bouteille, les clients du monde entier.<br>Tous nos vins et nos champagnes proviennent directement des Châteaux et Maisons de Champagne. Nous considérons que la transparence entre nos Châteaux et la clientèle finale est primordiale.<br>Les collaborateurs de Châteaux Partners sont unis par nos quatre valeurs d'humanisme, d'ouverture, de proximité et d'enthousiasme, qu'ils apportent chaque jour à leur travail."
+      image: 'graph.png'
+      alt: "Graphique chiffre d'affaires"
 
   # Introduction
   introduction:
@@ -196,9 +212,9 @@ fr:
     - title: 'Notre Philosophie'
       short_title: 'Philosophie'
       url: 'philosophy.html'
-    # - title: 'Nos Tarifs'
-    #   short_title: 'Tarifs'
-    #   url: 'prices.html'
+    - title: 'Nos Vins'
+      short_title: 'Vins'
+      url: 'wines.html'
     - title: 'Nous Contacter'
       short_title: 'Contact'
       url: 'contact_us.html'
@@ -234,11 +250,11 @@ fr:
 
   mentions: Mentions légales
 
+  hours: 'Ouverts de 8h30 à 12h & de 14h à 18h'
+
   # Alt text for background images
   alternates:
     logo: 'Logo Châteaux Partners'
     contact: 'Place de la Bourse Bordeaux'
     expertise: 'Entrée du Chateau Pavie'
     history: 'Grappes de raisin'
-
-
