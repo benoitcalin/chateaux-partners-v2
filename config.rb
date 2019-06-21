@@ -22,4 +22,6 @@ activate :deploy do |deploy|
   deploy.deploy_method = :git
 end
 
+activate :directory_indexes
+
 set :index_file, 'history.html'
