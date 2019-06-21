@@ -24,4 +24,4 @@ end
 
 activate :directory_indexes
 
-set :index_file, 'history.html'
+# set :index_file, 'history.html'
