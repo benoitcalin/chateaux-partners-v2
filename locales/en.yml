@@ -1,8 +1,8 @@
 en:
   # Metadata
   metadata:
-    keywords: 'wine, grands crus, wine house, bordeaux, tastings, events, storage, delivery, wine club, châteaux, selection, bourgogne, champagne, margaux, pauillac, pessac-leognan, pomerol, saint-julien, saint-emilion-grand-cru, saint-estèphe, sauternes'
-    description: 'A rich portfolio for a wide range of offers. Close links with our Châteaux and Houses to offer the best wines, ensuring quality and provenance of the products. More than a wine merchant company, we consider ourselves as a wine club. We want to share our passion for wine organising monthly events.'
+    keywords: 'wine, grands crus, wine house, bordeaux, tastings, events, storage, delivery, wine club, châteaux, selection, bourgogne, champagne, margaux, pauillac, pessac-leognan, pomerol, saint-julien, saint-émilion-grand-cru, saint-estèphe, sauternes'
+    description: 'A rich portfolio for a wide range of offers. Close links with our Châteaux and Maisons to offer the best wines, ensuring quality and provenance of the products. More than a wine merchant company, we consider ourselves as a wine club. We want to share our passion for wine organising monthly events.'
     reply_to: 'contact@chateaux-partners.com'
     category: 'wine'
 
@@ -10,7 +10,7 @@ en:
   og:
     url: 'https://chateaux-partners.com/'
     title: 'Châteaux Partners'
-    description: 'A rich portfolio for a wide range of offers. Close links with our Châteaux and Houses to offer the best wines, ensuring quality and provenance of the products. More than a wine merchant company, we consider ourselves as a wine club. We want to share our passion for wine organising monthly events.'
+    description: 'A rich portfolio for a wide range of offers. Close links with our Châteaux and Maisons to offer the best wines, ensuring quality and provenance of the products. More than a wine merchant company, we consider ourselves as a wine club. We want to share our passion for wine organising monthly events.'
     image: 'facebook.jpg'
 
   # History info
@@ -19,7 +19,7 @@ en:
       image: 'historic.jpeg'
       alt: 'Grape on a vineyard'
       title: 'An Encouter'
-      content: 'Our story began with the encounter of two family wine-makers from Saint-Emilion and Burgundy which gave birth in 2013 to our wine merchant company: Châteaux partners.<br><br>From the beginning of our adventure, we have had the opportunity to offer our customers classified Grands Crus from Bordeaux, Saint-Emilion, the largest estates in Bourgogne and prestigious Champagne houses.'
+      content: 'Our story began with the encounter of two wine-making family from Saint-Émilion and Burgundy which gave birth in 2013 to our wine merchant company: Châteaux partners.<br><br>From the beginning of our adventure, we have had the opportunity to offer our customers classified Grands Crus from Bordeaux, Saint-Émilion, the largest estates in Bourgogne and prestigious Maisons de Champagne.'
 
     - id: clients
       image: 'clients.jpeg'
@@ -31,7 +31,7 @@ en:
       image: 'evolution.png'
       alt: 'Some bottles of Chateaneuf Du Pape'
       title: 'Our Evolution'
-      content: 'Following the arrival of our new President Mr. El Yousfi-Goldberg, from a family wine-maker in Châteauneuf du Pape, we have decided to offer wines from Côte du Rhône and to extend our range entry products to give everyone the opportunity to discover the variety of French wines.<br><br>In order to supply the demands of our customers, we have also created our own wine using different labels, the principal being the "Envie de".'
+      content: 'Following the arrival of our new President Mr. El Yousfi-Goldberg, from a wine-maker family in Châteauneuf-du-Pape, we have decided to offer wines from Côtes du Rhône and to extend our range entry products to give everyone the opportunity to discover the variety of French wines.<br><br>In order to supply the demands of our customers, we have also created our own wine using different labels, the principal being the "Envie de".'
 
   # Philosophy
   philosophy:
@@ -41,7 +41,7 @@ en:
       alt: 'Three white wine glasses'
 
     - title: 'Viticulture'
-      content: 'Agriculture is the basis of our activity, we work with more than 120 châteaux and houses of Champagnes, including family exploitations.  We accompany both reputed and aspiring houses and châteaux in their commercial and human development.<br><br>We are in close collaboration with several winegrowers in Bordeaux, Cotes du Rhône and Cotes de Provence in the elaboration of our range "Envie de" and its different variations. <br><br>Our conception: to share what the earth can offer us.'
+      content: 'Agriculture is the basis of our activity, we work with more than 120 Châteaux and Maisons of Champagnes, including family exploitations. We accompany both reputed and aspiring Maisons and Châteaux in their commercial and human development.<br><br>We are in close collaboration with several winegrowers in Bordeaux, Cotes du Rhône and Cotes de Provence in the elaboration of our range "Envie de" and its different variations. <br><br>Our conception: to share what the earth can offer us.'
       image: 'viticulture.jpg'
       alt: 'Sunset on vineyards'
 
@@ -102,7 +102,7 @@ en:
       Château Léoville Las Cases, Château Léoville Poyferré, Château Léoville Barton, Château Ducru Beaucaillou, Château Beychevelle, Château Gruaud Larose...<br>
       <br>
 
-      <strong>SAINT-EMILION GRAND CRU</strong><br>
+      <strong>SAINT-ÉMILION GRAND CRU</strong><br>
       Château Cheval Blanc, Château Pavie, Château Figeac, Château Canon La Gaffelière, Château La Mondotte, Château Beau-Séjour Bécot, Château La Gomerie, Château Valandraud, Château Angélus...<br>
       <br>
 
@@ -116,18 +116,18 @@ en:
 
     - title: '« Petits Châteaux »'
       content: "We decided to specialize in only French Wines and Champagnes.<br>Thanks to the close relationship we have built with French brokers and owners, our exchanges and tastings throughout France with winemakers, our seasoned expertise we are also able to offer a wide range excellent « Petits Châteaux ».<br>In total, there are 1500 varieties of entry and mid-range wines and champagnes ranging from 3 to 40 euros.<br>We have also created our own wine in different variations bearing the name « Envie de »."
-      image: 'chateau.jpeg'
+      image: 'chateau.jpg'
       alt: 'Wine bottle'
 
     - title: "Exportation Leaders"
-      content: "We have a powerful distribution network capable of supplying, sometimes bottle by bottle, customers over the world.<br>All our wines and champagnes come directly from the Châteaux and Champagne Houses. We consider that transparency between our Châteaux and the final clientele is paramount.<br>The employees of Châteaux Partners are united by our four values of humanism, openness, closeness and enthusiasm, which they bring every day to their work."
+      content: "We have a powerful distribution network capable of supplying, sometimes bottle by bottle, customers over the world.<br>All our wines and champagnes come directly from the Châteaux and Maisons de Champagne. We consider that transparency between our Châteaux and the final clientele is paramount.<br>The employees of Châteaux Partners are united by our four values of humanism, openness, closeness and enthusiasm, which they bring every day to their work."
       image: 'graph.png'
       alt: "Revenue Graph"
 
   # Introduction
   introduction:
     title: A Few Words
-    text: 'A rich portfolio for a wide range of offers.<br><br>Close links with our Châteaux and Houses to offer the best wines, ensuring quality and provenance of the products.<br><br><strong class = "purple">More than a wine merchant company, we consider ourselves as a wine club.</strong><br><br>We want to share our passion for wine organising monthly events.'
+    text: 'A rich portfolio for a wide range of offers.<br><br>Close links with our Châteaux and Maisons de Champagne to offer the best wines, ensuring quality and provenance of the products.<br><br><strong class = "purple">More than a wine merchant company, we consider ourselves as a wine club.</strong><br><br>We share our passion for wine by organising monthly events.'
 
   # Events
   events:
@@ -138,7 +138,7 @@ en:
                 <br>
                 <br>Each terroir, land and climate gives each grape variety its qualities and specificities.
                 <br>
-                <br>Every family, man and woman working daily for these iconic châteaux and houses has a passion to transmit.
+                <br>Every family, man and woman working daily for these iconic Châteaux and Maisons has a passion to transmit.
                 <br>
                 <br>Every Vintage and process of vinification from grape to bottle brings to the wines all its characteristics.
                 <br>
@@ -149,9 +149,9 @@ en:
     - title: 'Events'
       content: 'Our positioning allows us to travel and meet our clients. During these trips, we usually organize different kinds of events.
                 <br>
-                <br>We are usually accompanied by representatives from each Chateau and champagne House that will be tested.
+                <br>We are usually accompanied by representatives from each Chateau and Maisons de Champagne that will be tested.
                 <br>
-                <br>We consider the transparency between our Châteaux and the final clientele as paramount. It is important for us to ensure the provenance of our wines and reassure our clientele about. It is also crucial that the representatives of Châteaux and Houses meet our customers.
+                <br>We consider the transparency between our Châteaux and the final clientele as paramount. It is important for us to ensure the provenance of our wines and reassure our clientele about. It is also crucial that the representatives of Châteaux and Maisons meet our customers.
                 <br>
                 <br>We are also eager to answer your needs regarding tastings, business dinners, tasting seminars or the preparation of all types of events (wedding, anniversary...).'
       image: 'evenements.jpg'

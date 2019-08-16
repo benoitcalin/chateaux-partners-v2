@@ -1,7 +1,7 @@
 fr:
   # Metadata
   metadata:
-    keywords: 'vin, grands crus, négoce, bordeaux, dégustations, événements, stockage, livraison, wine club, châteaux, sélection, bourgogne, champagne, margaux, pauillac, pessac-leognan, pomerol, saint-julien, saint-emilion-grand-cru, saint-estèphe, sauternes'
+    keywords: 'vin, grands crus, négoce, bordeaux, dégustations, événements, stockage, livraison, wine club, châteaux, sélection, bourgogne, champagne, margaux, pauillac, pessac-leognan, pomerol, saint-julien, saint-émilion-grand-cru, saint-estèphe, sauternes'
     description: 'Un portefeuille riche pour une proposition de gamme très variée. Des liens étroits avec nos Châteaux et Maisons pour proposer les meilleurs vins, assurant qualité et provenance des produits. Plus qu’une maison de négoce, nous nous pensons comme un Wine Club. Nous souhaitons partager notre passion du vin autour d’évènements mensuels.'
     reply_to: 'contact@chateaux-partners.com'
     category: 'vin'
@@ -19,11 +19,11 @@ fr:
       image: 'historic.jpeg'
       alt: 'Grappes dans les vignes'
       title: 'La Rencontre'
-      content: 'Notre histoire est issue de la rencontre entre deux familles viticoles de Saint-Emilion et de Bourgogne qui ensemble ont donné naissance en 2013 à notre maison de négoce : Châteaux Partners.
+      content: 'Notre histoire est issue de la rencontre entre deux familles viticoles de Saint-Émilion et de Bourgogne qui ensemble ont donné naissance en 2013 à notre maison de négoce : Châteaux Partners.
       <br>
       <br>
       Dès le début de notre aventure nous avons eu l’opportunité de proposer des Grands Crus Classés en Bordeaux et
-      Saint-Emilion, les plus grands domaines de Bourgogne ainsi que de prestigieuses maisons de Champagnes à nos clients.'
+      Saint-Émilion, les plus grands domaines de Bourgogne ainsi que de prestigieuses Maisons de Champagne à nos clients.'
 
     - id: clients
       image: 'clients.jpeg'
@@ -39,7 +39,7 @@ fr:
       alt: 'Des bouteilles de Chateaneuf Du Pape'
       title: 'Notre Evolution'
       content: 'À la suite de l’arrivée de notre nouveau Président M. El Yousfi-Goldberg, issu d’une famille viticole en
-      Châteauneuf du Pape, il a été décidé de proposer des vins du Côte du Rhône et d’étendre notre entrée de gamme
+      Châteauneuf-du-Pape, il a été décidé de proposer des vins du Côtes du Rhône et d’étendre notre entrée de gamme
       pour offrir l’opportunité à chacun de découvrir la richesse des vins français.
       <br>
       <br>
@@ -54,7 +54,7 @@ fr:
       alt: 'Trois verres de vins blanc'
 
     - title: 'Viticulture'
-      content: "L’agriculture est à la base de notre activité, nous travaillons avec plus de 120 Châteaux et Maisons de Champagnes, y compris des exploitations familiales.<br><br>Nous accompagnons dans le développement commercial et humain aussi bien des maisons réputées que des châteaux en devenir. Nous sommes en étroite collaboration avec plusieurs viticulteurs en Bordeaux, Côtes du Rhône et Côtes de Provence dans l’élaboration de notre gamme « Envie de » et ses différentes déclinaisons.<br><br>Notre conception : partager et faire découvrir ce que la terre peut nous offrir."
+      content: "L’agriculture est à la base de notre activité, nous travaillons avec plus de 120 Châteaux et Maisons de Champagne, y compris des exploitations familiales.<br><br>Nous accompagnons dans le développement commercial et humain aussi bien des maisons réputées que des châteaux en devenir. Nous sommes en étroite collaboration avec plusieurs viticulteurs en Bordeaux, Côtes du Rhône et Côtes de Provence dans l’élaboration de notre gamme « Envie de » et ses différentes déclinaisons.<br><br>Notre conception : partager et faire découvrir ce que la terre peut nous offrir."
       image: 'viticulture.jpg'
       alt: 'Choucher de soleil sur des vignes'
 
@@ -75,7 +75,7 @@ fr:
   # Wines
   wines:
     - title: "Notre Spécialité"
-      content: "Châteaux Partners est spécialiste des Grands Crus Classés et Grandes Maisons de Champagnes depuis 6 ans.<br>Opérateur incontournable des ventes en primeurs avec 120 Grands Crus classés à Bordeaux, Bourgogne et Cote du Rhône, nous avons parallèlement opté pour le long terme en investissant sur des millésimes anciens que nous achetons, mettons en cave et finançons sur plusieurs années.<br>Notre situation financière nous permet d’accroître nos stocks d’années en années et de faire profiter à nos clients de 500 variétés de vins rares et d’exceptions qui vont de 1855 à 2018 allant de 50€ à 25 000€ la bouteille."
+      content: "Châteaux Partners est spécialiste des Grands Crus Classés et Grandes Maisons de Champagne depuis 6 ans.<br>Opérateur incontournable des ventes en primeurs avec 120 Grands Crus classés à Bordeaux, Bourgogne et Cote du Rhône, nous avons parallèlement opté pour le long terme en investissant sur des millésimes anciens que nous achetons, mettons en cave et finançons sur plusieurs années.<br>Notre situation financière nous permet d’accroître nos stocks d’années en années et de faire profiter à nos clients de 500 variétés de vins rares et d’exceptions qui vont de 1855 à 2018 allant de 50€ à 25 000€ la bouteille."
       image: 'stocks.png'
       alt: "Graphique chiffre d'affaires"
 
@@ -114,7 +114,7 @@ fr:
       Château Léoville Las Cases, Château Léoville Poyferré, Château Léoville Barton, Château Ducru Beaucaillou, Château Beychevelle, Château Gruaud Larose...<br>
       <br>
 
-      <strong>SAINT-EMILION GRAND CRU</strong><br>
+      <strong>SAINT-ÉMILION GRAND CRU</strong><br>
       Château Cheval Blanc, Château Pavie, Château Figeac, Château Canon La Gaffelière, Château La Mondotte, Château Beau-Séjour Bécot, Château La Gomerie, Château Valandraud, Château Angélus...<br>
       <br>
 
@@ -128,7 +128,7 @@ fr:
 
     - title: '« Petits Châteaux »'
       content: "Nous avons décidé de nous spécialiser uniquement dans les Vins et Champagnes Français.<br>Grâce à la relation étroite que nous avons construite avec les courtiers et propriétaires Français, à nos échanges et dégustations à travers la France auprès des vignerons, à notre expertise aguerrie nous sommes également en mesure de proposer une gamme importante d’excellents « petits châteaux ».<br>Au total c’est 1500 variétés de vins et champagnes d’entrée et moyenne gamme allant de 3€ à 40€.<br>Nous avons également créé notre propre vin sous différentes déclinaisons portant le nom de « Envie de »."
-      image: 'chateau.jpeg'
+      image: 'chateau.jpg'
       alt: 'Bouteille de vin'
 
     - title: "Leader à l’export"
@@ -164,7 +164,7 @@ fr:
     - title: 'Evénements'
       content: 'Notre positionnement nous permet aujourd’hui de voyager et de rencontrer notre clientèle. Durant ces déplacements, nous avons pour habitude d’organiser différents évènements.
                 <br>
-                <br>Nous sommes habituellement accompagnés des représentants de chaque Château et Maison de champagne que nous faisons déguster.
+                <br>Nous sommes habituellement accompagnés des représentants de chaque Château et Maison de Champagne que nous faisons déguster.
                 <br>
                 <br>Nous considérons que la transparence entre nos Châteaux et la clientèle finale est primordiale. Il est important à nos yeux d’assurer et de rassurer notre clientèle sur la provenance de nos vins, et de permettre la rencontre entre nos clients et les représentants des Châteaux et Maisons.
                 <br>
