@@ -75,7 +75,7 @@ fr:
   # Wines
   wines:
     - title: "Notre Spécialité"
-      content: "Châteaux Partners est spécialiste des Grands Crus Classés et Grandes Maisons de Champagne depuis 6 ans.<br>Opérateur incontournable des ventes en primeurs avec 120 Grands Crus classés à Bordeaux, Bourgogne et Cote du Rhône, nous avons parallèlement opté pour le long terme en investissant sur des millésimes anciens que nous achetons, mettons en cave et finançons sur plusieurs années.<br>Notre situation financière nous permet d’accroître nos stocks d’années en années et de faire profiter à nos clients de 500 variétés de vins rares et d’exceptions qui vont de 1855 à 2018 allant de 50€ à 25 000€ la bouteille."
+      content: "Châteaux Partners est spécialiste des Grands Crus Classés et Grandes Maisons de Champagne depuis 6 ans.<br><br>Opérateur incontournable des ventes en primeurs avec 120 Grands Crus classés à Bordeaux, Bourgogne et Cote du Rhône, nous avons parallèlement opté pour le long terme en investissant sur des millésimes anciens que nous achetons, mettons en cave et finançons sur plusieurs années.<br><br>Notre situation financière nous permet d’accroître nos stocks d’années en années et de faire profiter à nos clients de 500 variétés de vins rares et d’exceptions qui vont de 1855 à 2018 allant de 50€ à 25 000€ la bouteille."
       image: 'stocks.png'
       alt: "Graphique chiffre d'affaires"
 
@@ -127,12 +127,12 @@ fr:
       <br>"
 
     - title: '« Petits Châteaux »'
-      content: "Nous avons décidé de nous spécialiser uniquement dans les Vins et Champagnes Français.<br>Grâce à la relation étroite que nous avons construite avec les courtiers et propriétaires Français, à nos échanges et dégustations à travers la France auprès des vignerons, à notre expertise aguerrie nous sommes également en mesure de proposer une gamme importante d’excellents « petits châteaux ».<br>Au total c’est 1500 variétés de vins et champagnes d’entrée et moyenne gamme allant de 3€ à 40€.<br>Nous avons également créé notre propre vin sous différentes déclinaisons portant le nom de « Envie de »."
+      content: "Nous avons décidé de nous spécialiser uniquement dans les Vins et Champagnes Français.<br><br>Grâce à la relation étroite que nous avons construite avec les courtiers et propriétaires Français, à nos échanges et dégustations à travers la France auprès des vignerons, à notre expertise aguerrie nous sommes également en mesure de proposer une gamme importante d’excellents « petits châteaux ».<br><br>Au total c’est 1500 variétés de vins et champagnes d’entrée et moyenne gamme allant de 3€ à 40€.<br><br>Nous avons également créé notre propre vin sous différentes déclinaisons portant le nom de « Envie de »."
       image: 'chateau.jpg'
       alt: 'Bouteille de vin'
 
     - title: "Leader à l’export"
-      content: "Nous avons un réseau de distribution puissant capable d’approvisionner, parfois bouteille par bouteille, les clients du monde entier.<br>Tous nos vins et nos champagnes proviennent directement des Châteaux et Maisons de Champagne. Nous considérons que la transparence entre nos Châteaux et la clientèle finale est primordiale.<br>Les collaborateurs de Châteaux Partners sont unis par nos quatre valeurs d'humanisme, d'ouverture, de proximité et d'enthousiasme, qu'ils apportent chaque jour à leur travail."
+      content: "Nous avons un réseau de distribution puissant capable d’approvisionner, parfois bouteille par bouteille, les clients du monde entier.<br><br>Tous nos vins et nos champagnes proviennent directement des Châteaux et Maisons de Champagne. Nous considérons que la transparence entre nos Châteaux et la clientèle finale est primordiale.<br><br>Les collaborateurs de Châteaux Partners sont unis par nos quatre valeurs d'humanisme, d'ouverture, de proximité et d'enthousiasme, qu'ils apportent chaque jour à leur travail."
       image: 'graph.png'
       alt: "Graphique chiffre d'affaires"
 

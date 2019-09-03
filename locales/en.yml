@@ -62,7 +62,7 @@ en:
   # Wines
   wines:
     - title: "Our Specialty"
-      content: "Châteaux Partners has been a specialist in Classified Grand Crus and Grandes Maisons de Champagnes for 6 years. <br>A key operator of premium sales with 120 Grands Crus classified in Bordeaux, Bourgogne and Côte du Rhône, we have also opted for the long term by investing in vintages that we buy, put in cellars and finance throughout several years.<br>Our financial situation allows us to increase our stocks from year to year and to benefit our customers from 500 varieties of rare and exceptional wines ranging from 1855 to 2018 ranging from 50 to 25,000 euros per bottle."
+      content: "Châteaux Partners has been a specialist in Classified Grand Crus and Grandes Maisons de Champagnes for 6 years.<br><br>A key operator of En Primeur sales with 120 Grands Crus classified in Bordeaux, Bourgogne and Côte du Rhône, we have also opted for the long term by investing in vintages that we buy, put in cellars and finance throughout several years.<br><br>Our financial situation allows us to increase our stocks from year to year and to benefit our customers from 500 varieties of rare and exceptional wines ranging from 1855 to 2018 ranging from 50 to 25,000 euros per bottle."
       image: 'stocks.png'
       alt: "Inventory Graph"
 
@@ -115,12 +115,12 @@ en:
       <br>'
 
     - title: '« Petits Châteaux »'
-      content: "We decided to specialize in only French Wines and Champagnes.<br>Thanks to the close relationship we have built with French brokers and owners, our exchanges and tastings throughout France with winemakers, our seasoned expertise we are also able to offer a wide range excellent « Petits Châteaux ».<br>In total, there are 1500 varieties of entry and mid-range wines and champagnes ranging from 3 to 40 euros.<br>We have also created our own wine in different variations bearing the name « Envie de »."
+      content: "We decided to specialize in only French Wines and Champagnes.<br><br>Thanks to the close relationship we have built with French brokers and owners, our exchanges and tastings throughout France with winemakers, our seasoned expertise we are also able to offer a wide range excellent « Petits Châteaux ».<br><br>In total, there are 1500 varieties of entry and mid-range wines and champagnes ranging from 3 to 40 euros.<br><br>We have also created our own wine in different variations bearing the name « Envie de »."
       image: 'chateau.jpg'
       alt: 'Wine bottle'
 
     - title: "Exportation Leaders"
-      content: "We have a powerful distribution network capable of supplying, sometimes bottle by bottle, customers over the world.<br>All our wines and champagnes come directly from the Châteaux and Maisons de Champagne. We consider that transparency between our Châteaux and the final clientele is paramount.<br>The employees of Châteaux Partners are united by our four values of humanism, openness, closeness and enthusiasm, which they bring every day to their work."
+      content: "We have a powerful distribution network capable of supplying, sometimes bottle by bottle, customers over the world.<br><br>All our wines and champagnes come directly from the Châteaux and Maisons de Champagne. We consider that transparency between our Châteaux and the final clientele is paramount.<br><br>The employees of Châteaux Partners are united by our four values of humanism, openness, closeness and enthusiasm, which they bring every day to their work."
       image: 'graph.png'
       alt: "Revenue Graph"
 
