@@ -12,6 +12,6 @@ gem "nokogiri", ">= 1.10.4"
 gem 'actionview', '>= 5.0.7.2'
 
 # Assets
-gem 'bootstrap', '~> 4.3.1'
+gem 'bootstrap', '~> 4.6.2'
 gem 'jquery-middleman'
 
